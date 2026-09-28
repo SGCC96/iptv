@@ -1,43 +1,42 @@
-name: Make SETIPTV Compatible Playlist
+name: Update Turkish + Dutch IPTV
 
 on:
   workflow_dispatch:
-  workflow_run:
-    workflows: ["Update Turkish + Dutch IPTV"]
-    types: [completed]
+  schedule:
+    - cron: "17 */6 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  sanitize:
-    # Only sanitize after a successful source-playlist build.
-    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
-      - name: Download sanitizer
+      - name: Install ffmpeg
         run: |
-          test -f sanitize_setiptv.py
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
 
-      - name: Create strict SETIPTV playlist
+      - name: Download builder
         run: |
-          python sanitize_setiptv.py
+          test -f build_turk_nl.py
 
-      - name: Commit SETIPTV playlist
+      - name: Build and probe
+        run: |
+          python build_turk_nl.py --probe --workers 12
+
+      - name: Commit updated playlist
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add turks_nederland_setiptv.m3u setiptv_validation.txt
-          git diff --cached --quiet || git commit -m "Create SETIPTV-compatible playlist"
+          git add turks_nederland_verified.m3u turks_nederland_validation.txt
+          git diff --cached --quiet || git commit -m "Update Turkish and Dutch verified playlist"
           git push
