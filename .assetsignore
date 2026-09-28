@@ -1,0 +1,12 @@
+# Do not publish build/config/source files as public static assets
+.github/
+worker.js
+wrangler.jsonc
+build_turk_nl.py
+sanitize_setiptv.py
+README.md
+*.txt
+*.ps1
+*.py
+*.zip
+turks_nederland_verified.m3u
