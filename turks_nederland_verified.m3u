@@ -6,7 +6,7 @@ https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b42
 #EXTINF:-1 tvg-id="360TuneBox.nl" tvg-name="360TuneBox" tvg-logo="https://i.imgur.com/1Fyezng.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",360TuneBox (1080p)
 https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="A1TV.nl" tvg-name="A1 TV" tvg-logo="https://i.imgur.com/JZ1oTM2.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",A1 TV (1080p)
-https://stream.a1mediagroep.nl/hls/a1tv.m3u8
+https://www.a1mediagroep.nl/hls/a1tv.m3u8
 #EXTINF:-1 tvg-id="AltenaTV.nl" tvg-name="Altena TV" tvg-logo="https://i.imgur.com/0wblu0I.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Altena TV (720p)
 https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
 #EXTINF:-1 tvg-id="AssenTV.nl" tvg-name="Assen TV" tvg-logo="https://i.imgur.com/upik15D.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Assen TV (720p)
@@ -19,7 +19,7 @@ https://tv.beatfm.nl/live.m3u8
 https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
 #EXTINF:-1 tvg-id="BR6TV.nl" tvg-name="BR6 TV" tvg-logo="https://i.imgur.com/NKtAiXu.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",BR6 TV (720p)
 https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalPlusActionEurope.nl" tvg-name="Canal+ Action Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" tvg-country="NL" tvg-language="ger" group-title="Nederlands",Canal+ Action Europe (1080p)
+#EXTINF:-1 tvg-id="CanalPlusActionEurope.nl" tvg-name="Canal+ Action Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" tvg-country="NL" tvg-language="ger" group-title="Nederlands",Canal+ Action Europe (720p)
 http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
 #EXTINF:-1 tvg-id="DanceTelevision.nl" tvg-name="Dance Television" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Dance Television (1080p)
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
@@ -80,15 +80,15 @@ https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IdeaalTV.nl" tvg-name="Ideaal TV" tvg-logo="https://i.imgur.com/JLYQFoX.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Ideaal TV (720p)
 https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="INFAST.nl" tvg-name="INFAST" tvg-logo="https://cdn.uc.assets.prezly.com/1b9c9500-cb43-449b-9eb6-9579640ec904/InFast_portrait-red.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",INFAST (1080p)
-https://amg00861-amg00861c11-rlaxx-uk-3950.playouts.now.amagi.tv/playlist.m3u8
+https://lifestyle-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="INTRAVEL.nl" tvg-name="INTRAVEL" tvg-logo="https://cdn.uc.assets.prezly.com/394f887e-bb39-4228-b126-93914e375b13/INTRAVEL_PortraitColor.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",INTRAVEL (1080p)
-https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8
+https://amg00861-terncloud-amg00861c10-samsung-gb-2298.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-intravelsamsunguk-samsunggb/playlist.m3u8
 #EXTINF:-1 tvg-id="InTrouble.nl" tvg-name="InTrouble" tvg-logo="https://cdn.uc.assets.prezly.com/28ebc4a6-cfda-4bb1-9b9c-14e2c3da67a8/InTrouble_portraitOrange.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",InTrouble (1080p)
 https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="INWILD.nl" tvg-name="INWILD" tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",INWILD (1080p)
 https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" tvg-logo="https://cdn.uc.assets.prezly.com/1e0b2617-b145-4489-9d63-ba8438489f26/InWonder_portrait-black.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",InWonder (1080p)
-https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="JinTV.nl" tvg-name="Jin TV" tvg-logo="https://i.imgur.com/37ajg2j.png" tvg-country="NL" tvg-language="kur" group-title="Nederlands",Jin TV
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-id="KempenTV.nl" tvg-name="KempenTV" tvg-logo="https://i.imgur.com/ZiPL9ar.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",KempenTV (720p)
@@ -320,15 +320,15 @@ https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&
 #EXTINF:-1 tvg-id="TweedeKamerWttewaallvanStoetwegenzaal.nl" tvg-name="Tweede Kamer: Wttewaall van Stoetwegenzaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Tweede Kamer: Wttewaall van Stoetwegenzaal (1080p)
 https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
 #EXTINF:-1 tvg-id="UStad.nl" tvg-name="UStad" tvg-logo="https://i.imgur.com/9F8ieEz.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",UStad (1080p)
-https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
+http://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8
 #EXTINF:-1 tvg-id="VechtdalTV.nl" tvg-name="Vechtdal TV" tvg-logo="https://i.imgur.com/MhcKEwr.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Vechtdal TV (720p)
 https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WeertFMTV.nl" tvg-name="WeertFM TV" tvg-logo="https://i.imgur.com/8bt6xt2.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",WeertFM TV (720p)
 https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WOS.nl" tvg-name="WOS" tvg-logo="https://i.imgur.com/L7MUBIo.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",WOS (1080p)
-https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
+https://ms7.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" tvg-logo="https://i.imgur.com/jxuwGRi.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",XITE (720p)
-https://xite-rakuten.amagi.tv/playlist.m3u8
+https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="XITEClassicCountry.nl" tvg-name="XITE Classic Country" tvg-logo="https://provider-static.plex.tv/epg/cms/production/511ebc88-a7f7-4f6d-85ff-38c849bbb4a3/xiteclassiccountry_logo_light_-_Arlette_FiranRDX.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",XITE Classic Country (1080p)
 https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8
 #EXTINF:-1 tvg-id="XITEHits.nl" tvg-name="XITE Hits" tvg-logo="https://i.imgur.com/N51Rp7E.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",XITE Hits (1080p)
@@ -337,10 +337,10 @@ https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
 #EXTINF:-1 tvg-id="XITEReggaeVibes.nl" tvg-name="XITE Reggae Vibes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",XITE Reggae Vibes (1080p)
 https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
-#EXTINF:-1 tvg-id="XITERockxMetal.nl" tvg-name="XITE Rock x Metal" tvg-logo="https://i.imgur.com/szDM09P.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",XITE Rock x Metal (1080p)
-https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="XITERockxMetal.nl" tvg-name="XITE Rock x Metal" tvg-logo="https://i.imgur.com/szDM09P.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",XITE Rock x Metal (720p)
+https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
 #EXTINF:-1 tvg-id="XON.nl" tvg-name="XON" tvg-logo="https://i.imgur.com/xEUHgMj.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",XON (480p)
-http://ms2.mx-cd.net/tv/EdeTV.smil/playlist.m3u8
+https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZFMZoetermeerTV.nl" tvg-name="ZFM Zoetermeer TV" tvg-logo="https://i.imgur.com/vrjACvy.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",ZFM Zoetermeer TV (720p)
 https://zfmzoetermeer.nl/live/master.m3u8
 #EXTINF:-1 tvg-id="ZiggoSport.nl" tvg-name="Ziggo Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Ziggo Sport
@@ -354,7 +354,7 @@ http://145.239.5.177/349/index.m3u8
 #EXTINF:-1 tvg-id="ZO34.nl" tvg-name="ZO!34" tvg-logo="https://i.imgur.com/yiihDg6.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",ZO!34 (720p)
 https://video.uitzending.tv:19360/zo34/zo34.m3u8
 #EXTINF:-1 tvg-id="24TV.tr" tvg-name="24 TV" tvg-logo="https://i.imgur.com/8FO41es.png" tvg-country="TR" tvg-language="tur" group-title="Turks",24 TV (720p)
-https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://i.imgur.com/agn47sQ.png" tvg-country="TR" tvg-language="tur" group-title="Turks",360 (720p)
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="4UTV.tr" tvg-name="4U TV" tvg-logo="https://i.imgur.com/PexhKwp.png" tvg-country="TR" tvg-language="fas" group-title="Turks",4U TV (720p)
@@ -381,13 +381,13 @@ https://starmenajo.com/hls/almahriah/index.m3u8
 https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="AnadoluNetTV.tr" tvg-name="Anadolu Net TV" tvg-logo="https://www.anadolunettv.com/d/r/logo.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Anadolu Net TV (1080p)
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
-#EXTINF:-1 tvg-id="ArasTV.tr" tvg-name="Aras TV" tvg-logo="https://i.imgur.com/JsDCyWG.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Aras TV (576p)
+#EXTINF:-1 tvg-id="ArasTV.tr" tvg-name="Aras TV" tvg-logo="https://i.imgur.com/JsDCyWG.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Aras TV (720p)
 http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ASTV.tr" tvg-name="AS TV" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png" tvg-country="TR" tvg-language="tur" group-title="Turks",AS TV (1080p)
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.imgur.com/HyVUwFC.png" tvg-country="TR" tvg-language="tur" group-title="Turks",ATV (360p)
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
-#EXTINF:-1 tvg-id="ATVAlanya.tr" tvg-name="ATV Alanya" tvg-logo="https://i.imgur.com/bUwarR0.png" tvg-country="TR" tvg-language="tur" group-title="Turks",ATV Alanya (720p)
+#EXTINF:-1 tvg-id="ATVAlanya.tr" tvg-name="ATV Alanya" tvg-logo="https://i.imgur.com/bUwarR0.png" tvg-country="TR" tvg-language="tur" group-title="Turks",ATV Alanya (1080p)
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-name="ATV Avrupa" tvg-logo="https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png" tvg-country="TR" tvg-language="tur" group-title="Turks",ATV Avrupa (576p)
 https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8
@@ -413,7 +413,7 @@ https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 #EXTINF:-1 tvg-id="BirTV.tr" tvg-name="Bir TV" tvg-logo="https://birtv.tv/assets/upload/637f83951df60.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Bir TV (720p)
 https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://i.imgur.com/bmkXfIE.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Bloomberg HT (1080p)
-https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8
+https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-id="BricveSatrancTV.tr" tvg-name="Bric ve Satranc TV" tvg-logo="https://i.imgur.com/TXDV1ty.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Bric ve Satranc TV (480p)
 http://139.162.182.79/live/test/index.m3u8
 #EXTINF:-1 tvg-id="BRTV.tr" tvg-name="BRTV" tvg-logo="https://i.imgur.com/U3qlEAp.png" tvg-country="TR" tvg-language="tur" group-title="Turks",BRTV (720p)
@@ -567,8 +567,8 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://i.imgur.com/9o1atM6.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kanal D (1080p)
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-name="Kanal D Drama" tvg-logo="https://i.imgur.com/WIeZMKT.png" tvg-country="TR" tvg-language="sqi" group-title="Turks",Kanal D Drama (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD_principal_SRT/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalFirat.tr" tvg-name="Kanal Firat" tvg-logo="https://i.imgur.com/3o8Rokp.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kanal Firat (720p)
 https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalHayat.tr" tvg-name="Kanal Hayat" tvg-logo="https://i.imgur.com/eikZj19.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kanal Hayat (1080p)
@@ -640,7 +640,7 @@ https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerLove.tr" tvg-name="Power Love" tvg-logo="https://i.imgur.com/0RzUswR.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Power Love (1080p)
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTV.tr" tvg-name="Power TV" tvg-logo="https://i.imgur.com/XSL1gd7.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Power TV (1080p)
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTurkAkustik.tr" tvg-name="PowerTurk Akustik" tvg-logo="https://i.imgur.com/driabBO.png" tvg-country="TR" tvg-language="tur" group-title="Turks",PowerTurk Akustik (1080p)
 https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTurkSlow.tr" tvg-name="PowerTurk Slow" tvg-logo="https://i.imgur.com/tQSoQXW.png" tvg-country="TR" tvg-language="tur" group-title="Turks",PowerTurk Slow (1080p)
