@@ -1,0 +1,739 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1AlmereTV.nl" tvg-name="1AlmereTV" tvg-logo="https://i.imgur.com/XfkbTrU.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",1AlmereTV (720p)
+https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-name="1Twente TV" tvg-logo="https://i.imgur.com/ftiuNK3.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",1Twente TV (1080p)
+https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8
+#EXTINF:-1 tvg-id="360TuneBox.nl" tvg-name="360TuneBox" tvg-logo="https://i.imgur.com/1Fyezng.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",360TuneBox (1080p)
+https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="A1TV.nl" tvg-name="A1 TV" tvg-logo="https://i.imgur.com/JZ1oTM2.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",A1 TV (1080p)
+https://stream.a1mediagroep.nl/hls/a1tv.m3u8
+#EXTINF:-1 tvg-id="AltenaTV.nl" tvg-name="Altena TV" tvg-logo="https://i.imgur.com/0wblu0I.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Altena TV (720p)
+https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
+#EXTINF:-1 tvg-id="AssenTV.nl" tvg-name="Assen TV" tvg-logo="https://i.imgur.com/upik15D.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Assen TV (720p)
+https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live
+#EXTINF:-1 tvg-id="AT5.nl" tvg-name="AT5" tvg-logo="https://i.imgur.com/iAiSlEL.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",AT5 (1080p)
+https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="BEATTV.nl" tvg-name="BEATTV" tvg-logo="https://i.imgur.com/egK33Dj.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",BEATTV (1080p)
+https://tv.beatfm.nl/live.m3u8
+#EXTINF:-1 tvg-id="BNRNieuwsradio.nl" tvg-name="BNR Nieuwsradio" tvg-logo="https://i.imgur.com/d0KLwkj.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",BNR Nieuwsradio (720p)
+https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
+#EXTINF:-1 tvg-id="BR6TV.nl" tvg-name="BR6 TV" tvg-logo="https://i.imgur.com/NKtAiXu.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",BR6 TV (720p)
+https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalPlusActionEurope.nl" tvg-name="Canal+ Action Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" tvg-country="NL" tvg-language="ger" group-title="Nederlands",Canal+ Action Europe (1080p)
+http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
+#EXTINF:-1 tvg-id="DanceTelevision.nl" tvg-name="Dance Television" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Dance Television (1080p)
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-id="DeepHouseDistrict.nl" tvg-name="Deep House District" tvg-logo="https://i.imgur.com/IV2Qvc0.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Deep House District (1080p)
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-id="DenHaagTV.nl" tvg-name="Den Haag TV" tvg-logo="https://i.imgur.com/gkzlRED.jpg" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Den Haag TV (1080p)
+http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.nl" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Disney Channel
+http://86.87.15.10:8004/play/a02g/index.m3u8
+#EXTINF:-1 tvg-id="DitisHelmond.nl" tvg-name="Dit is Helmond" tvg-logo="https://i.imgur.com/fGAaBAs.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Dit is Helmond (480p)
+http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DocuBox.nl" tvg-name="DocuBox" tvg-logo="https://i.imgur.com/pX4U9OG.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",DocuBox
+https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="DTVDenBosch.nl" tvg-name="DTV Den Bosch" tvg-logo="https://i.imgur.com/aFBNbsy.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",DTV Den Bosch (1080p)
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv2&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="DTVMaashorst.nl" tvg-name="DTV Maashorst" tvg-logo="https://i.imgur.com/5WaCCAC.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",DTV Maashorst (1080p)
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv3&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="DTVOssBernheze.nl" tvg-name="DTV Oss & Bernheze" tvg-logo="https://i.imgur.com/JL1f9Tx.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",DTV Oss & Bernheze (1080p)
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="FashionBox.nl" tvg-name="FashionBox" tvg-logo="https://i.imgur.com/Taqj4yi.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",FashionBox
+https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="FastFunBox.nl" tvg-name="Fast&FunBox" tvg-logo="https://i.imgur.com/a9ZtP17.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",Fast&FunBox
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="FeelGoodTV.nl" tvg-name="Feel Good TV" tvg-logo="https://i.imgur.com/qvs1BKr.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Feel Good TV (720p)
+https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-name="FightBox" tvg-logo="https://i.imgur.com/mRsnztA.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",FightBox
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+#EXTINF:-1 tvg-id="Film1Action.nl" tvg-name="Film1 Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film1_Action_SVG.svg/960px-Film1_Action_SVG.svg.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Film1 Action
+http://86.87.15.10:8008/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="Film1Drama.nl" tvg-name="Film1 Drama" tvg-logo="https://i.imgur.com/oqrnvib.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Film1 Drama
+http://86.87.15.10:8008/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="Film1Family.nl" tvg-name="Film1 Family" tvg-logo="https://i.imgur.com/8XRfXIa.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Film1 Family
+http://86.87.15.10:8008/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="Film1Premiere.nl" tvg-name="Film1 Premiere" tvg-logo="https://i.imgur.com/Kn9LX8i.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Film1 Premiere
+http://86.87.15.10:8008/play/a01n/index.m3u8
+#EXTINF:-1 tvg-id="FomixTV.nl" tvg-name="FomixTV" tvg-logo="https://i.imgur.com/7SLYEMG.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",FomixTV (1080p)
+https://stream.fomixmedia.nl/FomixTV/video.m3u8
+#EXTINF:-1 tvg-id="FunBoxUHD.nl" tvg-name="FunBox UHD" tvg-logo="https://i.imgur.com/9FJct9o.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",FunBox UHD (720p)
+https://webtvstream.bhtelecom.ba/funbox.m3u8
+#EXTINF:-1 tvg-id="Gametoon.nl" tvg-name="Gametoon" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",Gametoon (720p)
+https://webtvstream.bhtelecom.ba/gametoon.m3u8
+#EXTINF:-1 tvg-id="GigantFM.nl" tvg-name="Gigant FM" tvg-logo="https://i.imgur.com/LwEHfjD.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Gigant FM (720p)
+https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
+#EXTINF:-1 tvg-id="Haarlem105TV.nl" tvg-name="Haarlem105 TV" tvg-logo="https://i.imgur.com/xyOVVZ0.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Haarlem105 TV (720p)
+https://d2qm50imcbcfqx.cloudfront.net/nlpo/clr-nlpo/haarlem105/index.m3u8
+#EXTINF:-1 tvg-id="HTRTV.nl" tvg-name="HTR TV" tvg-logo="https://i.imgur.com/IlwVHX0.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",HTR TV (720p)
+https://ms7.mx-cd.net/tv/286-3043214/HTR_Media_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HypeVisualRadio.nl" tvg-name="Hype Visual Radio" tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/1/97371.v21.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Hype Visual Radio (1080p)
+https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IdeaalTV.nl" tvg-name="Ideaal TV" tvg-logo="https://i.imgur.com/JLYQFoX.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Ideaal TV (720p)
+https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="INFAST.nl" tvg-name="INFAST" tvg-logo="https://cdn.uc.assets.prezly.com/1b9c9500-cb43-449b-9eb6-9579640ec904/InFast_portrait-red.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",INFAST (1080p)
+https://amg00861-amg00861c11-rlaxx-uk-3950.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="INTRAVEL.nl" tvg-name="INTRAVEL" tvg-logo="https://cdn.uc.assets.prezly.com/394f887e-bb39-4228-b126-93914e375b13/INTRAVEL_PortraitColor.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",INTRAVEL (1080p)
+https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InTrouble.nl" tvg-name="InTrouble" tvg-logo="https://cdn.uc.assets.prezly.com/28ebc4a6-cfda-4bb1-9b9c-14e2c3da67a8/InTrouble_portraitOrange.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",InTrouble (1080p)
+https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="INWILD.nl" tvg-name="INWILD" tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",INWILD (1080p)
+https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" tvg-logo="https://cdn.uc.assets.prezly.com/1e0b2617-b145-4489-9d63-ba8438489f26/InWonder_portrait-black.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",InWonder (1080p)
+https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JinTV.nl" tvg-name="Jin TV" tvg-logo="https://i.imgur.com/37ajg2j.png" tvg-country="NL" tvg-language="kur" group-title="Nederlands",Jin TV
+https://live.jintv.org/medialive/jintv.m3u8
+#EXTINF:-1 tvg-id="KempenTV.nl" tvg-name="KempenTV" tvg-logo="https://i.imgur.com/ZiPL9ar.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",KempenTV (720p)
+http://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="L1TV.nl" tvg-name="L1 TV" tvg-logo="https://i.imgur.com/SDD5KS5.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",L1 TV (720p)
+https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
+#EXTINF:-1 tvg-id="LangstraatTV.nl" tvg-name="Langstraat TV" tvg-logo="https://i.imgur.com/xchUfks.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Langstraat TV (720p)
+https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8
+#EXTINF:-1 tvg-id="LansingerlandTV.nl" tvg-name="Lansingerland TV" tvg-logo="https://i.imgur.com/1r7IZ7Q.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Lansingerland TV (720p)
+https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LEOMiddelseTV.nl" tvg-name="LEO Middelse TV" tvg-logo="https://i.imgur.com/wF3FFZv.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",LEO Middelse TV (720p)
+https://ms7.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LINQTV.nl" tvg-name="LINQ TV" tvg-logo="https://i.imgur.com/0DgP3vu.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",LINQ TV (480p)
+https://ms7.mx-cd.net/dtv-09/246-2090022/Linq_Media_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LOETV.nl" tvg-name="LOE TV" tvg-logo="https://i.imgur.com/8i6OwaS.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",LOE TV (720p)
+https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8
+#EXTINF:-1 tvg-id="LokaleOmroepZeewolde.nl" tvg-name="Lokale Omroep Zeewolde" tvg-logo="https://i.imgur.com/Dw4u9wT.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Lokale Omroep Zeewolde (720p)
+https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8
+#EXTINF:-1 tvg-id="LONTV.nl" tvg-name="LON TV" tvg-logo="https://i.imgur.com/bH4XSGw.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",LON TV (720p)
+https://streamingserver02.omroepnuenen.nl/lon/lonweb/chunklist_w1463772894.m3u8
+#EXTINF:-1 tvg-id="MagicPowerRadio.nl" tvg-name="Magic PowerRadio" tvg-logo="https://i.imgur.com/sWcwIte.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Magic PowerRadio (240p)
+https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8
+#EXTINF:-1 tvg-id="MaLive.nl" tvg-name="MaLive" tvg-logo="https://i.imgur.com/0Vzg2OR.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",MaLive (1080p)
+https://live.salto.nl/hls/malive_high.m3u8
+#EXTINF:-1 tvg-id="MeerTV.nl" tvg-name="Meer TV" tvg-logo="https://i.imgur.com/p4TXVkE.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Meer TV (720p)
+https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8
+#EXTINF:-1 tvg-id="MerweTV.nl" tvg-name="MerweTV" tvg-logo="https://i.imgur.com/JjB7U1q.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",MerweTV (720p)
+https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8
+#EXTINF:-1 tvg-id="ML5TV.nl" tvg-name="ML5 TV" tvg-logo="https://i.imgur.com/knjHdei.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",ML5 TV (480p)
+https://ms2.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.nl" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",National Geographic (1080p)
+http://46.32.176.50/NationalGeographicHD/index.m3u8
+#EXTINF:-1 tvg-id="NH.nl" tvg-name="NH" tvg-logo="https://i.imgur.com/SPkK4md.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",NH (1080p)
+https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="NicktoonsScandinavia.nl" tvg-name="Nicktoons Scandinavia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",Nicktoons Scandinavia
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PE7C639D6VY8TCQQ4BYRZT7X/12059/index.m3u8
+#EXTINF:-1 tvg-id="NOOSTV.nl" tvg-name="NOOS TV" tvg-logo="https://i.imgur.com/X8xLcpT.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",NOOS TV (720p)
+https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NPO3.nl" tvg-name="NPO 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NPO_3_logo_2018.svg/960px-NPO_3_logo_2018.svg.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",NPO 3 (720p)
+https://bpm.tv.delta.nl/hls/combined/3/mobile.m3u8
+#EXTINF:-1 tvg-id="OmroepBrabant.nl" tvg-name="Omroep Brabant" tvg-logo="https://i.imgur.com/KLYsKKC.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Omroep Brabant (1080p)
+https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+#EXTINF:-1 tvg-id="OmroepBrabantRadio.nl" tvg-name="Omroep Brabant Radio" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Omroep Brabant Radio (1080p)
+https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
+#EXTINF:-1 tvg-id="OmroepCentraalTV.nl" tvg-name="Omroep Centraal TV" tvg-logo="https://i.imgur.com/YNUPWbL.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Omroep Centraal TV (480p)
+https://ms2.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepDommelland.nl" tvg-name="Omroep Dommelland" tvg-logo="https://i.imgur.com/6Tkd9Pv.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Omroep Dommelland (720p)
+https://de68fck4398ez.cloudfront.net/nlpo/clr-nlpo/omroepdommelland/index.m3u8
+#EXTINF:-1 tvg-id="OmroepFlevoland.nl" tvg-name="Omroep Flevoland" tvg-logo="https://i.imgur.com/rF4MTYD.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Omroep Flevoland (720p)
+https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
+#EXTINF:-1 tvg-id="OmroepGelderland.nl" tvg-name="Omroep Gelderland" tvg-logo="https://i.imgur.com/G08hKit.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Omroep Gelderland (1080p)
+https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8
+#EXTINF:-1 tvg-id="OmroepHoekscheWaard.nl" tvg-name="Omroep Hoeksche Waard" tvg-logo="https://i.imgur.com/pgMwNGV.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Omroep Hoeksche Waard (480p)
+https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepHulst.nl" tvg-name="Omroep Hulst" tvg-logo="https://i.imgur.com/RrQnqId.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Omroep Hulst (720p)
+https://ms7.mx-cd.net/tv/280-2963002/Omroep_Hulst_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepLandvanCuijk.nl" tvg-name="Omroep Land van Cuijk" tvg-logo="https://i.imgur.com/Pt2gXJ1.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Omroep Land van Cuijk (720p)
+https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8
+#EXTINF:-1 tvg-id="OmroepLingewaard.nl" tvg-name="Omroep Lingewaard" tvg-logo="https://i.imgur.com/FqyTFVN.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Omroep Lingewaard (720p)
+https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepMeierijstad.nl" tvg-name="Omroep Meierijstad" tvg-logo="https://i.imgur.com/sYzh01C.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Omroep Meierijstad (720p)
+https://ms2.mx-cd.net/dtv-09/186-793530/Omroep_Meierij_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepOnsWestBrabant.nl" tvg-name="Omroep Ons West Brabant" tvg-logo="https://i.imgur.com/XlWTK7s.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Omroep Ons West Brabant (480p)
+https://ms2.mx-cd.net/tv/177-710139/Ons_West_Brabant_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepPeelrand.nl" tvg-name="Omroep Peelrand" tvg-logo="https://i.imgur.com/K4AhATP.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Omroep Peelrand (720p)
+https://ms7.mx-cd.net/dtv-11/208-1258878/Omroep_Peelrand_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepSudwest.nl" tvg-name="Omroep Sudwest" tvg-logo="https://i.imgur.com/XtKLmQS.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Omroep Sudwest (720p)
+https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8
+#EXTINF:-1 tvg-id="OmroepTilburg.nl" tvg-name="Omroep Tilburg" tvg-logo="https://i.imgur.com/rhazkU7.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Omroep Tilburg (720p)
+https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepVenlo.nl" tvg-name="Omroep Venlo" tvg-logo="https://i.imgur.com/zjDZdmM.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Omroep Venlo (720p)
+https://d2pqcu7r58rgg1.cloudfront.net/nlpo/clr-nlpo/omroepvenlo/index.m3u8
+#EXTINF:-1 tvg-id="OmroepVenray.nl" tvg-name="Omroep Venray" tvg-logo="https://i.imgur.com/uVqTbi2.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Omroep Venray (720p)
+https://d3j015sg8r68y.cloudfront.net/nlpo/clr-nlpo/omroepvenray/index.m3u8
+#EXTINF:-1 tvg-id="OmroepWest.nl" tvg-name="Omroep West" tvg-logo="https://i.imgur.com/5IDb9fk.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Omroep West (1080p)
+https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8
+#EXTINF:-1 tvg-id="OmroepZeeland.nl" tvg-name="Omroep Zeeland" tvg-logo="https://i.imgur.com/3c3QUSn.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Omroep Zeeland (1080p)
+https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
+#EXTINF:-1 tvg-id="OmropFryslan.nl" tvg-name="Omrop Fryslan" tvg-logo="https://i.imgur.com/khacDTU.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Omrop Fryslan (1080p)
+https://s-d15f8b0b.b.cdn.bluebillywig.com/live/omropfryslan/f8f68bd5/index.m3u8
+#EXTINF:-1 tvg-id="OOGTV.nl" tvg-name="OOG TV" tvg-logo="https://i.imgur.com/WzxY0PL.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",OOG TV (720p)
+https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8
+#EXTINF:-1 tvg-id="OPENRotterdamTV.nl" tvg-name="OPEN Rotterdam TV" tvg-logo="https://i.imgur.com/nWahRAb.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",OPEN Rotterdam TV (720p)
+https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ORTSTV.nl" tvg-name="ORTS TV" tvg-logo="https://i.imgur.com/RZM4Myo.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",ORTS TV (720p)
+https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PodiumTV.nl" tvg-name="Podium.TV" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Podium.TV (1080p)
+https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC1&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-id="PodiumTV2.nl" tvg-name="Podium.TV 2" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Podium.TV 2 (1080p)
+https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-id="PodiumTV3.nl" tvg-name="Podium.TV 3" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Podium.TV 3 (1080p)
+https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-id="Qmusic.nl" tvg-name="Qmusic" tvg-logo="https://i.imgur.com/fMTuqDu.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Qmusic (720p)
+https://stream.qmusic.nl/qmusic/videohls.m3u8
+#EXTINF:-1 tvg-id="Radio10.nl" tvg-name="Radio 10" tvg-logo="https://i.imgur.com/2oGtj7r.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Radio 10 (1080p)
+https://radio10.prd1.talpatvcdn.nl/2b725bc7c93f477eaf0e43955ea8a6c1/index.m3u8
+#EXTINF:-1 tvg-id="Radio350.nl" tvg-name="Radio 350" tvg-logo="https://i.imgur.com/3nkzXup.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Radio 350 (360p)
+https://stream.radio350.nl/hls/radio350.m3u8
+#EXTINF:-1 tvg-id="Radio538.nl" tvg-name="Radio 538" tvg-logo="https://i.imgur.com/sd7BX9H.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Radio 538 (1080p)
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
+#EXTINF:-1 tvg-id="RadioAalsmeerTV.nl" tvg-name="Radio Aalsmeer TV" tvg-logo="https://i.imgur.com/SYzjLlI.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Radio Aalsmeer TV (720p)
+https://radioaalsmeer.nl:4443/live/tv.m3u8
+#EXTINF:-1 tvg-id="RadioJND.nl" tvg-name="Radio JND" tvg-logo="https://i.imgur.com/nyVlZeL.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Radio JND (1080p)
+https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioStaddenHaag.nl" tvg-name="Radio Stad den Haag" tvg-logo="https://i.imgur.com/ANK36EQ.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Radio Stad den Haag (720p)
+https://rsdh.cloud-streams.com/rsdh/rsdh/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioNLTV.nl" tvg-name="RadioNL TV" tvg-logo="https://i.imgur.com/TVaMJYB.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RadioNL TV (1080p)
+https://stream.radionl.tv/radionltv/radionltv/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioToppers.nl" tvg-name="RadioToppers" tvg-logo="https://i.imgur.com/9OMsUd7.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RadioToppers (720p)
+https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
+#EXTINF:-1 tvg-id="Rararadio.nl" tvg-name="Rararadio" tvg-logo="https://i.imgur.com/vTpfxUG.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Rararadio (720p)
+https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTVDeBilt.nl" tvg-name="Regio TV De Bilt" tvg-logo="https://i.imgur.com/2jQbmyK.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Regio TV De Bilt (720p)
+https://d3ud9qm9b5yby9.cloudfront.net/nlpo/clr-nlpo/76ecd122/index.m3u8
+#EXTINF:-1 tvg-id="RegioTVNieuws.nl" tvg-name="Regio TV Nieuws" tvg-logo="https://i.imgur.com/BG7zrsC.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Regio TV Nieuws (1080p)
+http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8
+#EXTINF:-1 tvg-id="Regio90TV.nl" tvg-name="Regio90 TV" tvg-logo="https://i.imgur.com/UGnm1jd.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Regio90 TV (720p)
+https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RN7.nl" tvg-name="RN7" tvg-logo="https://i.imgur.com/dYBTrLc.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RN7 (720p)
+https://streams.rn7.nl/memfs/49823eea-a17d-4e39-a435-75b6d60df96e.m3u8
+#EXTINF:-1 tvg-id="RPLWoerden.nl" tvg-name="RPL Woerden" tvg-logo="https://i.imgur.com/UdYMXWQ.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RPL Woerden (720p)
+https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
+#EXTINF:-1 tvg-id="RTV1.nl" tvg-name="RTV 1" tvg-logo="https://i.imgur.com/lRCsPWT.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV 1 (720p)
+https://dy7fxpkq4ggk8.cloudfront.net/nlpo/clr-nlpo/rtv1/index.m3u8
+#EXTINF:-1 tvg-id="RTVArnhemTV.nl" tvg-name="RTV Arnhem TV" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV Arnhem TV (480p)
+https://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVDrenthe.nl" tvg-name="RTV Drenthe" tvg-logo="https://i.imgur.com/UBQCjnG.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV Drenthe (1080p)
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+#EXTINF:-1 tvg-id="RTVGO.nl" tvg-name="RTV GO!" tvg-logo="https://i.imgur.com/WUClFUJ.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV GO! (1080p)
+http://59132e529e3d1.streamlock.net:1935/Groningen1/Groningen1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVHorizon.nl" tvg-name="RTV Horizon" tvg-logo="https://i.imgur.com/wnRsI8B.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV Horizon (720p)
+https://tv.rtvhorizon.nl/hls/horizon/1_2/index.m3u8
+#EXTINF:-1 tvg-id="RTVLOVE.nl" tvg-name="RTV LOVE" tvg-logo="https://i.imgur.com/hucwX6v.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV LOVE (720p)
+https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8
+#EXTINF:-1 tvg-id="RTVMaastricht.nl" tvg-name="RTV Maastricht" tvg-logo="https://i.imgur.com/nYl8H2e.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV Maastricht (720p)
+http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVMeppel.nl" tvg-name="RTV Meppel" tvg-logo="https://i.imgur.com/RosyQkb.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV Meppel (720p)
+https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/index.m3u8
+#EXTINF:-1 tvg-id="RTVNOFAchtkarspelenTytsjerksteradiel.nl" tvg-name="RTV NOF Achtkarspelen & Tytsjerksteradiel" tvg-logo="https://i.imgur.com/VO6wBcD.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV NOF Achtkarspelen & Tytsjerksteradiel (720p)
+https://5e6ab219de8f5.streamlock.net/rtvnof/rtvnof/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVNoord.nl" tvg-name="RTV Noord" tvg-logo="https://i.imgur.com/l92Cb6H.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV Noord (1080p)
+https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
+#EXTINF:-1 tvg-id="RTVNoordExtra.nl" tvg-name="RTV Noord Extra" tvg-logo="https://i.imgur.com/T0UvltB.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV Noord Extra (1080p)
+https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
+#EXTINF:-1 tvg-id="RTVNoordoostFriesland.nl" tvg-name="RTV Noordoost Friesland" tvg-logo="https://i.imgur.com/CpQIedo.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV Noordoost Friesland (720p)
+https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVOost.nl" tvg-name="RTV Oost" tvg-logo="https://i.imgur.com/nTR6q9H.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV Oost (1080p)
+https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
+#EXTINF:-1 tvg-id="RTVParkstad.nl" tvg-name="RTV Parkstad" tvg-logo="https://i.imgur.com/zsTuF9y.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV Parkstad (1080p)
+https://live.streamteam.eu:8443/parkstad/parkstad/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVPurmerend.nl" tvg-name="RTV Purmerend" tvg-logo="https://i.imgur.com/dLKSpqz.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV Purmerend (720p)
+https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVRijnmond.nl" tvg-name="RTV Rijnmond" tvg-logo="https://i.imgur.com/fJTs9xH.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV Rijnmond (1080p)
+https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8
+#EXTINF:-1 tvg-id="RTVRijnmondExtra.nl" tvg-name="RTV Rijnmond Extra" tvg-logo="https://i.imgur.com/mlrd5ia.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV Rijnmond Extra (1080p)
+http://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8
+#EXTINF:-1 tvg-id="RTVRijnstreekTV.nl" tvg-name="RTV Rijnstreek TV" tvg-logo="https://i.imgur.com/uM5sJJs.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV Rijnstreek TV (720p)
+https://ms7.mx-cd.net/tv/290-3222276/RTV_Rijnstreek.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVSLOS.nl" tvg-name="RTV SLOS" tvg-logo="https://i.imgur.com/xdzrT9A.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV SLOS (720p)
+https://d3b6teev8t7bb2.cloudfront.net/nlpo/clr-nlpo/rtvslos/index.m3u8
+#EXTINF:-1 tvg-id="RTVUtrecht.nl" tvg-name="RTV Utrecht" tvg-logo="https://i.imgur.com/nrvs30l.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV Utrecht (1080p)
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
+#EXTINF:-1 tvg-id="RTVVeluwezoomTV.nl" tvg-name="RTV Veluwezoom TV" tvg-logo="https://i.imgur.com/KeHbJTM.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV Veluwezoom TV (720p)
+https://dt4pogjgi3q8s.cloudfront.net/nlpo/clr-nlpo/rtvveluwezoom/index.m3u8
+#EXTINF:-1 tvg-id="RTVWesterwolde.nl" tvg-name="RTV Westerwolde" tvg-logo="https://i.imgur.com/002YXP6.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV Westerwolde (432p)
+https://media.rtvwesterwolde.nl/hls/live/index.m3u8
+#EXTINF:-1 tvg-id="RTVZulthe.nl" tvg-name="RTV Zulthe" tvg-logo="https://i.imgur.com/Z3zUUsJ.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",RTV Zulthe (720p)
+http://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Salto1.nl" tvg-name="Salto 1" tvg-logo="https://i.imgur.com/hyubvS5.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Salto 1 (720p)
+https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8
+#EXTINF:-1 tvg-id="Salto2.nl" tvg-name="Salto 2" tvg-logo="https://i.imgur.com/6H3ycdL.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Salto 2 (720p)
+https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8
+#EXTINF:-1 tvg-id="Salto4.nl" tvg-name="Salto 4" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Salto 4 (720p)
+https://salto-streams.nl/hls/sotv2.m3u8
+#EXTINF:-1 tvg-id="SaltoADE.nl" tvg-name="Salto ADE" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Salto ADE (720p)
+https://live.salto.nl/hls/at5.m3u8
+#EXTINF:-1 tvg-id="SaltoBrasaMusic.nl" tvg-name="Salto Brasa Music" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Salto Brasa Music (1080p)
+https://salto-streams.nl/hls/sotv1.m3u8
+#EXTINF:-1 tvg-id="SBS6Classics.nl" tvg-name="SBS6 Classics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",SBS6 Classics (1080p)
+https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
+#EXTINF:-1 tvg-id="SchieTV.nl" tvg-name="Schie TV" tvg-logo="https://i.imgur.com/kt4Aqvq.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Schie TV (720p)
+https://d2n2i1jp4j20kw.cloudfront.net/nlpo/clr-nlpo/schietv/index.m3u8
+#EXTINF:-1 tvg-id="SirisTV.nl" tvg-name="Siris TV" tvg-logo="https://i.imgur.com/4qKe18X.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Siris TV (720p)
+https://cdn.streammy.events/siris/playout/playlist.m3u8
+#EXTINF:-1 tvg-id="SleutelstadTV.nl" tvg-name="Sleutelstad TV" tvg-logo="https://i.imgur.com/ljVGMWV.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Sleutelstad TV (720p)
+https://video-eu1.streamerr.co/hls/s7fdeb27a49/live.m3u8
+#EXTINF:-1 tvg-id="SlotstadTV.nl" tvg-name="Slotstad TV" tvg-logo="https://i.imgur.com/NXCUiuF.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Slotstad TV (720p)
+https://d3eq9mufmyqgh4.cloudfront.net/nlpo/clr-nlpo/slotstadtv/index.m3u8
+#EXTINF:-1 tvg-id="SOL2.nl" tvg-name="SOL2" tvg-logo="https://i.imgur.com/VEbhJRA.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",SOL2 (1080p)
+https://live.streamteam.eu:8443/sol2playout/sol2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SRCTV.nl" tvg-name="SRC TV" tvg-logo="https://i.imgur.com/VSSbjrM.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",SRC TV (720p)
+http://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8
+#EXTINF:-1 tvg-id="StreekstadCentral.nl" tvg-name="Streekstad Central" tvg-logo="https://i.imgur.com/9gM6rPb.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Streekstad Central (1080p)
+https://videostreams.streekstadcentraal.nl/hls/streekstad_alkmaar/streekstad_alkmaar.m3u8
+#EXTINF:-1 tvg-id="StreekTV.nl" tvg-name="StreekTV" tvg-logo="https://i.imgur.com/48lkh57.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",StreekTV (720p)
+http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
+#EXTINF:-1 tvg-id="StudioRheden.nl" tvg-name="Studio Rheden" tvg-logo="https://i.imgur.com/swfxaac.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Studio Rheden (1080p)
+https://stream.studiorhedenlive.nl/hlstv/stream.m3u8
+#EXTINF:-1 tvg-id="Studio040TV.nl" tvg-name="Studio040 TV" tvg-logo="https://i.imgur.com/NBludRL.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Studio040 TV (720p)
+https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8
+#EXTINF:-1 tvg-id="TVEllef.nl" tvg-name="TV Ellef" tvg-logo="https://i.imgur.com/FaCd2QY.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",TV Ellef (1080p)
+http://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRain.nl" tvg-name="TV Rain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/960px-Tvrain.svg.png" tvg-country="NL" tvg-language="rus" group-title="Nederlands",TV Rain (1080p)
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TweedeKamerActualiteitenkanaal.nl" tvg-name="Tweede Kamer: Actualiteitenkanaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Tweede Kamer: Actualiteitenkanaal (1080p)
+https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerAlettaJacobszaal.nl" tvg-name="Tweede Kamer: Aletta Jacobszaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Tweede Kamer: Aletta Jacobszaal (1080p)
+https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerEnquetezaal.nl" tvg-name="Tweede Kamer: Enquetezaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Tweede Kamer: Enquetezaal (1080p)
+https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerGroenvanPrinstererzaal.nl" tvg-name="Tweede Kamer: Groen van Prinstererzaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Tweede Kamer: Groen van Prinstererzaal (1080p)
+https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerKlompezaal.nl" tvg-name="Tweede Kamer: Klompezaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Tweede Kamer: Klompezaal (1080p)
+https://livestreaming.b67buv2.tweedekamer.nl/live/klompezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerMaxvanderStoelzaal.nl" tvg-name="Tweede Kamer: Max van der Stoelzaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Tweede Kamer: Max van der Stoelzaal (1080p)
+https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerPlenairezaal.nl" tvg-name="Tweede Kamer: Plenaire zaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Tweede Kamer: Plenaire zaal (1080p)
+https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerSuzeGroenewegzaal.nl" tvg-name="Tweede Kamer: Suze Groenewegzaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Tweede Kamer: Suze Groenewegzaal (1080p)
+https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerThorbeckezaal.nl" tvg-name="Tweede Kamer: Thorbeckezaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Tweede Kamer: Thorbeckezaal (1080p)
+https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerTilanuskamer.nl" tvg-name="Tweede Kamer: Tilanuskamer" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Tweede Kamer: Tilanuskamer (1080p)
+https://livestream.tweedekamer.nl/live/tilanuskamer/73/prog_index.m3u8
+#EXTINF:-1 tvg-id="TweedeKamerTroelstrazaal.nl" tvg-name="Tweede Kamer: Troelstrazaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Tweede Kamer: Troelstrazaal (1080p)
+https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerWttewaallvanStoetwegenzaal.nl" tvg-name="Tweede Kamer: Wttewaall van Stoetwegenzaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Tweede Kamer: Wttewaall van Stoetwegenzaal (1080p)
+https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="UStad.nl" tvg-name="UStad" tvg-logo="https://i.imgur.com/9F8ieEz.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",UStad (1080p)
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
+#EXTINF:-1 tvg-id="VechtdalTV.nl" tvg-name="Vechtdal TV" tvg-logo="https://i.imgur.com/MhcKEwr.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Vechtdal TV (720p)
+https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WeertFMTV.nl" tvg-name="WeertFM TV" tvg-logo="https://i.imgur.com/8bt6xt2.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",WeertFM TV (720p)
+https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WOS.nl" tvg-name="WOS" tvg-logo="https://i.imgur.com/L7MUBIo.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",WOS (1080p)
+https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" tvg-logo="https://i.imgur.com/jxuwGRi.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",XITE (720p)
+https://xite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="XITEClassicCountry.nl" tvg-name="XITE Classic Country" tvg-logo="https://provider-static.plex.tv/epg/cms/production/511ebc88-a7f7-4f6d-85ff-38c849bbb4a3/xiteclassiccountry_logo_light_-_Arlette_FiranRDX.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",XITE Classic Country (1080p)
+https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8
+#EXTINF:-1 tvg-id="XITEHits.nl" tvg-name="XITE Hits" tvg-logo="https://i.imgur.com/N51Rp7E.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",XITE Hits (1080p)
+https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
+#EXTINF:-1 tvg-id="XITEJustChill.nl" tvg-name="XITE Just Chill" tvg-logo="https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",XITE Just Chill (1080p)
+https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
+#EXTINF:-1 tvg-id="XITEReggaeVibes.nl" tvg-name="XITE Reggae Vibes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",XITE Reggae Vibes (1080p)
+https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
+#EXTINF:-1 tvg-id="XITERockxMetal.nl" tvg-name="XITE Rock x Metal" tvg-logo="https://i.imgur.com/szDM09P.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",XITE Rock x Metal (1080p)
+https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="XON.nl" tvg-name="XON" tvg-logo="https://i.imgur.com/xEUHgMj.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",XON (480p)
+http://ms2.mx-cd.net/tv/EdeTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ZFMZoetermeerTV.nl" tvg-name="ZFM Zoetermeer TV" tvg-logo="https://i.imgur.com/vrjACvy.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",ZFM Zoetermeer TV (720p)
+https://zfmzoetermeer.nl/live/master.m3u8
+#EXTINF:-1 tvg-id="ZiggoSport.nl" tvg-name="Ziggo Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Ziggo Sport
+http://86.87.15.10:8004/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="ZiggoSport2.nl" tvg-name="Ziggo Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Ziggo Sport 2
+http://86.87.15.10:8004/play/a02b/index.m3u8
+#EXTINF:-1 tvg-id="ZiggoSport5.nl" tvg-name="Ziggo Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Ziggo Sport 5 (1080p)
+http://145.239.5.177/349/index.m3u8
+#EXTINF:-1 tvg-id="ZO34.nl" tvg-name="ZO!34" tvg-logo="https://i.imgur.com/yiihDg6.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",ZO!34 (720p)
+https://video.uitzending.tv:19360/zo34/zo34.m3u8
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="24 TV" tvg-logo="https://i.imgur.com/8FO41es.png" tvg-country="TR" tvg-language="tur" group-title="Turks",24 TV (720p)
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://i.imgur.com/agn47sQ.png" tvg-country="TR" tvg-language="tur" group-title="Turks",360 (720p)
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-id="4UTV.tr" tvg-name="4U TV" tvg-logo="https://i.imgur.com/PexhKwp.png" tvg-country="TR" tvg-language="fas" group-title="Turks",4U TV (720p)
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" tvg-country="TR" tvg-language="tur" group-title="Turks",A Haber (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor" tvg-logo="https://i.imgur.com/ZhkZzLf.png" tvg-country="TR" tvg-language="tur" group-title="Turks",A Spor (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 tvg-id="A2TV.tr" tvg-name="A2TV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" tvg-country="TR" tvg-language="tur" group-title="Turks",A2TV (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 tvg-id="AfroturkTV.tr" tvg-name="Afroturk TV" tvg-logo="https://i.imgur.com/fWlLvRA.png" tvg-country="TR" tvg-language="eng" group-title="Turks",Afroturk TV (1080p)
+https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="AksuTV.tr" tvg-name="Aksu TV" tvg-logo="https://i.imgur.com/mgDCKiy.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Aksu TV (720p)
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlRafidainTV.tr" tvg-name="Al-Rafidain TV" tvg-logo="https://i.imgur.com/rjXDCN5.png" tvg-country="TR" tvg-language="ara" group-title="Turks",Al-Rafidain TV (720p)
+https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8
+#EXTINF:-1 tvg-id="AlZahraTVTurkic.tr" tvg-name="Al-Zahra TV Turkic" tvg-logo="https://i.imgur.com/QEHKGnG.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Al-Zahra TV Turkic (720p)
+https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AlanyaPostaTV.tr" tvg-name="Alanya Posta TV" tvg-logo="https://i.imgur.com/a3w9eFe.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Alanya Posta TV (1080p)
+https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlmahriahTV.tr" tvg-name="Almahriah TV" tvg-logo="https://i.imgur.com/GgEeTNr.png" tvg-country="TR" tvg-language="ara" group-title="Turks",Almahriah TV (576p)
+https://starmenajo.com/hls/almahriah/index.m3u8
+#EXTINF:-1 tvg-id="AltasTV.tr" tvg-name="Altas TV" tvg-logo="https://i.imgur.com/XaJ7fp6.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Altas TV (720p)
+https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="AnadoluNetTV.tr" tvg-name="Anadolu Net TV" tvg-logo="https://www.anadolunettv.com/d/r/logo.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Anadolu Net TV (1080p)
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
+#EXTINF:-1 tvg-id="ArasTV.tr" tvg-name="Aras TV" tvg-logo="https://i.imgur.com/JsDCyWG.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Aras TV (576p)
+http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ASTV.tr" tvg-name="AS TV" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png" tvg-country="TR" tvg-language="tur" group-title="Turks",AS TV (1080p)
+https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.imgur.com/HyVUwFC.png" tvg-country="TR" tvg-language="tur" group-title="Turks",ATV (360p)
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+#EXTINF:-1 tvg-id="ATVAlanya.tr" tvg-name="ATV Alanya" tvg-logo="https://i.imgur.com/bUwarR0.png" tvg-country="TR" tvg-language="tur" group-title="Turks",ATV Alanya (720p)
+https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-name="ATV Avrupa" tvg-logo="https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png" tvg-country="TR" tvg-language="tur" group-title="Turks",ATV Avrupa (576p)
+https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8
+#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-name="beIN Box Office 1" tvg-logo="https://i.imgur.com/MGrJFVN.png" tvg-country="TR" tvg-language="tur" group-title="Turks",beIN Box Office 1
+https://nord.ayakkabiparti.lol/box1/index.m3u8
+#EXTINF:-1 tvg-id="beINBoxOffice2.tr" tvg-name="beIN Box Office 2" tvg-logo="https://i.imgur.com/Kg7oOcO.png" tvg-country="TR" tvg-language="tur" group-title="Turks",beIN Box Office 2
+https://nord.ayakkabiparti.lol/box2/index.m3u8
+#EXTINF:-1 tvg-id="beINBoxOffice3.tr" tvg-name="beIN Box Office 3" tvg-logo="https://i.imgur.com/5NZur1S.png" tvg-country="TR" tvg-language="tur" group-title="Turks",beIN Box Office 3
+https://nord.ayakkabiparti.lol/box3/index.m3u8
+#EXTINF:-1 tvg-id="beINMoviesStars.tr" tvg-name="beIN Movies Stars" tvg-logo="https://i.imgur.com/eryPkrT.png" tvg-country="TR" tvg-language="tur" group-title="Turks",beIN Movies Stars
+https://nord.ayakkabiparti.lol/bsaction1/index.m3u8
+#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-name="beIN Movies Turk" tvg-logo="https://i.imgur.com/nw8Sa2z.png" tvg-country="TR" tvg-language="tur" group-title="Turks",beIN Movies Turk
+https://nord.ayakkabiparti.lol/bsturk/index.m3u8
+#EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-name="Benguturk TV" tvg-logo="https://i.imgur.com/p3ON1oX.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Benguturk TV (720p)
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://i.imgur.com/uykIdML.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Beyaz TV (720p)
+https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+#EXTINF:-1 tvg-id="BirTV.tr" tvg-name="Bir TV" tvg-logo="https://birtv.tv/assets/upload/637f83951df60.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Bir TV (720p)
+https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://i.imgur.com/bmkXfIE.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Bloomberg HT (1080p)
+https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8
+#EXTINF:-1 tvg-id="BricveSatrancTV.tr" tvg-name="Bric ve Satranc TV" tvg-logo="https://i.imgur.com/TXDV1ty.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Bric ve Satranc TV (480p)
+http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1 tvg-id="BRTV.tr" tvg-name="BRTV" tvg-logo="https://i.imgur.com/U3qlEAp.png" tvg-country="TR" tvg-language="tur" group-title="Turks",BRTV (720p)
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
+#EXTINF:-1 tvg-id="BursaTV.tr" tvg-name="Bursa TV" tvg-logo="https://i.imgur.com/9cl1MR8.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Bursa TV (720p)
+https://win1.yayin.com.tr/bursatv/bursatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CayTV.tr" tvg-name="Cay TV" tvg-logo="https://i.imgur.com/ndupxwu.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Cay TV (720p)
+https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="CekmekoyTV.tr" tvg-name="Cekmekoy TV" tvg-logo="https://i.imgur.com/sjAGFWu.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Cekmekoy TV (1080p)
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="CiftciTV.tr" tvg-name="Ciftci TV" tvg-logo="https://i.imgur.com/CLzP4vL.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Ciftci TV (720p)
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBCe.tr" tvg-name="CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CNBC-e_2025.svg/960px-CNBC-e_2025.svg.png" tvg-country="TR" tvg-language="tur" group-title="Turks",CNBC-e (1080p)
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 tvg-id="DenizPostasiTV.tr" tvg-name="Deniz Postasi TV" tvg-logo="https://i.imgur.com/Mm8hdfx.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Deniz Postasi TV (720p)
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+#EXTINF:-1 tvg-id="DHA.tr" tvg-name="DHA" tvg-logo="https://i.imgur.com/VZhag2x.png" tvg-country="TR" tvg-language="tur" group-title="Turks",DHA (720p)
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyJr.tr" tvg-name="Disney Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-country="TR" tvg-language="tur" group-title="Turks",Disney Jr. (1080p)
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-id="DiyanetTV.tr" tvg-name="Diyanet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/960px-Diyanet_TV_logo.svg.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Diyanet TV (1080p)
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DiyarTV.tr" tvg-name="Diyar TV" tvg-logo="https://i.imgur.com/qWkHjRA.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Diyar TV (720p)
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
+#EXTINF:-1 tvg-id="DostTV.tr" tvg-name="Dost TV" tvg-logo="https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Dost TV (576p)
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-name="Dream Turk" tvg-logo="https://i.imgur.com/vJ8VaZi.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Dream Turk (720p)
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="EdessaTV.tr" tvg-name="Edessa TV" tvg-logo="https://i.imgur.com/rhU6j9I.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Edessa TV (1080p)
+https://canli.edessatv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Ekoturk.tr" tvg-name="Ekoturk" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65" tvg-country="TR" tvg-language="tur" group-title="Turks",Ekoturk (720p)
+https://cdn.ekoturk.net/hls/master.m3u8
+#EXTINF:-1 tvg-id="ElsharqTV.tr" tvg-name="Elsharq TV" tvg-logo="https://i.imgur.com/8vmfZb5.png" tvg-country="TR" tvg-language="ara" group-title="Turks",Elsharq TV (720p)
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ERTV.tr" tvg-name="ERTV" tvg-logo="https://i.imgur.com/VDGEPrD.png" tvg-country="TR" tvg-language="tur" group-title="Turks",ERTV (1080p)
+https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
+#EXTINF:-1 tvg-id="ErzurumWebTV.tr" tvg-name="Erzurum Web TV" tvg-logo="https://i.imgur.com/HF7N4Li.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Erzurum Web TV (720p)
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
+#EXTINF:-1 tvg-id="ESTV.tr" tvg-name="ES TV" tvg-logo="https://i.imgur.com/epAEBrp.png" tvg-country="TR" tvg-language="tur" group-title="Turks",ES TV (720p)
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
+#EXTINF:-1 tvg-id="ETVKayseri.tr" tvg-name="ETV Kayseri" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_msPtG6zfPKIJIIdvG4dehXLoVoXcHM2-2HL9YxsNYzGQ=s512-c-k-c0x00ffffff-no-rj" tvg-country="TR" tvg-language="tur" group-title="Turks",ETV Kayseri (720p)
+https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
+#EXTINF:-1 tvg-id="ETVManisa.tr" tvg-name="ETV Manisa" tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png" tvg-country="TR" tvg-language="tur" group-title="Turks",ETV Manisa (1080p)
+https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D" tvg-logo="https://i.imgur.com/x9kHsXo.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Euro D (720p)
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-id="FBTV.tr" tvg-name="FB TV" tvg-logo="https://i.imgur.com/qBVqtYd.png" tvg-country="TR" tvg-language="tur" group-title="Turks",FB TV (720p)
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FinansTurkTV.tr" tvg-name="Finans Turk TV" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Finans Turk TV (720p)
+https://yayin30.haber100.com/live/finansturk/playlist.m3u8
+#EXTINF:-1 tvg-id="FlashHaberTV.tr" tvg-name="Flash Haber TV" tvg-country="TR" tvg-language="tur" group-title="Turks",Flash Haber TV (1080p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FortunaTV.tr" tvg-name="Fortuna TV" tvg-logo="https://i.imgur.com/ZbUSlOC.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Fortuna TV (1080p)
+https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="GEM24B.tr" tvg-name="GEM 24B" tvg-logo="https://i.imgur.com/8LgdPst.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM 24B
+https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMBollywood.tr" tvg-name="GEM Bollywood" tvg-logo="https://i.imgur.com/2XASeBk.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM Bollywood
+https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMClassic.tr" tvg-name="GEM Classic" tvg-logo="https://i.imgur.com/25BhuOf.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM Classic
+https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMComedy.tr" tvg-name="GEM Comedy" tvg-logo="https://i.imgur.com/FuscfJW.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM Comedy
+https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMDrama.tr" tvg-name="GEM Drama" tvg-logo="https://i.imgur.com/k2pGyRH.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM Drama
+https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMDramaPlus.tr" tvg-name="GEM Drama +" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_7.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM Drama +
+https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMEntertainment.tr" tvg-name="GEM Entertainment" tvg-logo="https://www.gemgroup.tv/assets/images/channels/icon_8.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM Entertainment
+https://ca-rt.onetv.app/gementertainment/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMFilm.tr" tvg-name="GEM Film" tvg-logo="https://i.imgur.com/nrFz3LU.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM Film
+https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMFit.tr" tvg-name="GEM Fit" tvg-logo="https://i.imgur.com/7FQxaII.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM Fit
+https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMFood.tr" tvg-name="GEM Food" tvg-logo="https://i.imgur.com/SMtSinK.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM Food
+https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMJunior.tr" tvg-name="GEM Junior" tvg-logo="https://i.imgur.com/jK8yzj2.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM Junior
+https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMKids.tr" tvg-name="GEM Kids" tvg-logo="https://i.imgur.com/ArkjaFk.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM Kids
+https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMLife.tr" tvg-name="GEM Life" tvg-logo="https://i.imgur.com/gI8qePa.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM Life
+https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMMifa.tr" tvg-name="GEM Mifa" tvg-logo="https://i.imgur.com/qlI7o7V.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM Mifa
+https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMMifaPlus.tr" tvg-name="GEM Mifa +" tvg-logo="https://i.imgur.com/8FIAqR5.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM Mifa +
+https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMNature.tr" tvg-name="GEM Nature" tvg-logo="https://i.imgur.com/ENvOMDQ.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM Nature
+https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMOnyx.tr" tvg-name="GEM Onyx" tvg-logo="https://i.imgur.com/gXRIAw4.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM Onyx
+https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMPixel.tr" tvg-name="GEM Pixel" tvg-logo="https://i.ibb.co/Q3tkbPrn/icon-27.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM Pixel
+https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
+#EXTINF:-1 tvg-id="GEMRiver.tr" tvg-name="GEM River" tvg-logo="https://i.imgur.com/yJ6f1B6.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM River
+https://ca-rt.onetv.app/gemriver/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMRiverPlus.tr" tvg-name="GEM River +" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_29.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM River +
+https://ca-rt.onetv.app/gemriverplus/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMRubix.tr" tvg-name="GEM Rubix" tvg-logo="https://i.imgur.com/cDjOj58.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM Rubix
+https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMRubixPlus.tr" tvg-name="GEM Rubix +" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_31.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM Rubix +
+https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMSeriesPlus.tr" tvg-name="GEM Series +" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_33.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM Series +
+https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMSport.tr" tvg-name="GEM Sport" tvg-logo="https://www.gemgroup.tv/assets/images/channels/icon_34.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM Sport
+https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8
+#EXTINF:-1 tvg-id="GEMTV.tr" tvg-name="GEM TV" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_16.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM TV
+https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMTVPlus.tr" tvg-name="GEM TV +" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_17.png" tvg-country="TR" tvg-language="fas" group-title="Turks",GEM TV +
+https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GrandCinema.tr" tvg-name="Grand Cinema" tvg-country="TR" tvg-language="fas" group-title="Turks",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="GuneydoguTV.tr" tvg-name="Guneydogu TV" tvg-logo="https://i.imgur.com/JT5pp3Y.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Guneydogu TV (720p)
+https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="GZT.tr" tvg-name="GZT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png" tvg-country="TR" tvg-language="tur" group-title="Turks",GZT (1080p)
+https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="Haber Global" tvg-logo="https://i.imgur.com/fu6XeGS.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Haber Global (720p)
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-id="Haber61TV.tr" tvg-name="Haber61 TV" tvg-logo="https://i.imgur.com/2a2XUKl.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Haber61 TV (720p)
+https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-name="Haberturk TV" tvg-logo="https://i.imgur.com/6Tw3rUp.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Haberturk TV (1080p)
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV" tvg-logo="https://i.imgur.com/xM0HA30.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Halk TV (1080p)
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-id="HTSporTV.tr" tvg-name="HTSpor TV" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" tvg-country="TR" tvg-language="tur" group-title="Turks",HTSpor TV (1080p)
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 tvg-id="HunatTV.tr" tvg-name="Hunat TV" tvg-logo="https://i.imgur.com/NrxHGnb.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Hunat TV (720p)
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
+#EXTINF:-1 tvg-id="IcelTV.tr" tvg-name="Icel TV" tvg-logo="https://i.imgur.com/CGwImKv.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Icel TV (1080p)
+https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="IlkeTV.tr" tvg-name="Ilke TV" tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Ilke TV (1080p)
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
+#EXTINF:-1 tvg-id="Kanal12.tr" tvg-name="Kanal 12" tvg-logo="https://i.imgur.com/51xCkXG.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kanal 12 (720p)
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal15.tr" tvg-name="Kanal 15" tvg-logo="https://i.imgur.com/wb1Cdc9.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kanal 15 (720p)
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal23.tr" tvg-name="Kanal 23" tvg-logo="https://i.imgur.com/3br8RCq.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kanal 23 (1080p)
+https://cdn-kanal23.yayin.com.tr/kanal23/index.m3u8
+#EXTINF:-1 tvg-id="Kanal26.tr" tvg-name="Kanal 26" tvg-logo="https://i.imgur.com/Mr7XPii.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kanal 26 (720p)
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal3.tr" tvg-name="Kanal 3" tvg-logo="https://i.imgur.com/eXErSv0.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kanal 3 (1080p)
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal32.tr" tvg-name="Kanal 32" tvg-country="TR" tvg-language="tur" group-title="Turks",Kanal 32 (720p)
+https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal33.tr" tvg-name="Kanal 33" tvg-logo="https://i.imgur.com/5WYaoFZ.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kanal 33 (1080p)
+https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal34.tr" tvg-name="Kanal 34" tvg-logo="https://i.imgur.com/SIaI6Sj.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kanal 34 (720p)
+https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8
+#EXTINF:-1 tvg-id="Kanal58.tr" tvg-name="Kanal 58" tvg-logo="https://i.imgur.com/Rgc66sv.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kanal 58 (720p)
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://i.imgur.com/0gq9xOm.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kanal 7 (1080p)
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-name="Kanal 7 Avrupa" tvg-logo="https://i.imgur.com/wlfyj5l.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kanal 7 Avrupa (1080p)
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://i.imgur.com/9o1atM6.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kanal D (1080p)
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-name="Kanal D Drama" tvg-logo="https://i.imgur.com/WIeZMKT.png" tvg-country="TR" tvg-language="sqi" group-title="Turks",Kanal D Drama (1080p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD_principal_SRT/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalFirat.tr" tvg-name="Kanal Firat" tvg-logo="https://i.imgur.com/3o8Rokp.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kanal Firat (720p)
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalHayat.tr" tvg-name="Kanal Hayat" tvg-logo="https://i.imgur.com/eikZj19.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kanal Hayat (1080p)
+https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
+#EXTINF:-1 tvg-id="KanalV.tr" tvg-name="Kanal V" tvg-logo="https://i.imgur.com/7RNjTno.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kanal V (720p)
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
+#EXTINF:-1 tvg-id="KayTV.tr" tvg-name="Kay TV" tvg-logo="https://i.imgur.com/MymuDJ1.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kay TV (720p)
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
+#EXTINF:-1 tvg-id="KentTurk.tr" tvg-name="Kent Turk" tvg-logo="https://i.imgur.com/FQKPjsm.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kent Turk (1080p)
+https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8
+#EXTINF:-1 tvg-id="KocaeliTV.tr" tvg-name="Kocaeli TV" tvg-logo="https://i.imgur.com/LeTP4zq.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kocaeli TV (1080p)
+https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="KonyaOlayTV.tr" tvg-name="Konya Olay TV" tvg-logo="https://www.konyaolaytv.com/upload/tema/20230307__5154687762.jpg" tvg-country="TR" tvg-language="tur" group-title="Turks",Konya Olay TV (720p)
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
+#EXTINF:-1 tvg-id="KralPopTV.tr" tvg-name="Kral Pop TV" tvg-logo="https://i.imgur.com/ch365lh.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kral Pop TV (720p)
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1 tvg-id="LalegulTV.tr" tvg-name="Lalegul TV" tvg-logo="https://i.imgur.com/wwCysFs.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Lalegul TV (1080p)
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 tvg-id="LifeTV.tr" tvg-name="Life TV" tvg-logo="https://i.imgur.com/lWeJxm0.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Life TV (1080p)
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+#EXTINF:-1 tvg-id="LineTV.tr" tvg-name="Line TV" tvg-logo="https://i.imgur.com/6GNp7f8.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Line TV (720p)
+https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="LuysTV.tr" tvg-name="Luys TV" tvg-logo="https://i.imgur.com/9EruWIQ.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Luys TV (1080p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MaviKaradenizTV.tr" tvg-name="MaviKaradeniz TV" tvg-logo="https://i.imgur.com/wyWappU.png" tvg-country="TR" tvg-language="tur" group-title="Turks",MaviKaradeniz TV (720p)
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+#EXTINF:-1 tvg-id="MedMuzik.tr" tvg-name="Med Muzik" tvg-logo="https://i.imgur.com/gtUFmCD.png" tvg-country="TR" tvg-language="kur" group-title="Turks",Med Muzik (1080p)
+http://54.36.110.140/live3/live3.m3u8
+#EXTINF:-1 tvg-id="MekameleenTV.tr" tvg-name="Mekameleen TV" tvg-logo="https://i.imgur.com/q7iVchl.png" tvg-country="TR" tvg-language="ara" group-title="Turks",Mekameleen TV (1080p)
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MeltemTV.tr" tvg-name="Meltem TV" tvg-logo="https://i.imgur.com/C3m6w5S.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Meltem TV (1080p)
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MercanTV.tr" tvg-name="Mercan TV" tvg-logo="https://i.imgur.com/3CWV8bS.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Mercan TV (576p)
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
+#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-name="Minika Cocuk" tvg-logo="https://i.imgur.com/VCywMTv.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Minika Cocuk (720p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1 tvg-id="MinikaGo.tr" tvg-name="Minika Go" tvg-logo="https://i.imgur.com/qIoipDq.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Minika Go (720p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1 tvg-id="MovieSmartTurk.tr" tvg-name="MovieSmart Turk" tvg-logo="https://i.imgur.com/DWN9ulT.png" tvg-country="TR" tvg-language="tur" group-title="Turks",MovieSmart Turk (576p)
+http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174
+#EXTINF:-1 tvg-id="MTurkTV.tr" tvg-name="MTurk TV" tvg-logo="https://i.imgur.com/xj1gvrq.png" tvg-country="TR" tvg-language="tur" group-title="Turks",MTurk TV (720p)
+https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="TR" tvg-language="tur" group-title="Turks",National Geographic
+https://nord.ayakkabiparti.lol/natgeo/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-country="TR" tvg-language="tur" group-title="Turks",National Geographic Wild
+https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
+#EXTINF:-1 tvg-id="NaturalTV.tr" tvg-name="Natural TV" tvg-logo="https://i.imgur.com/rfcJ674.png" tvg-country="TR" tvg-language="eng" group-title="Turks",Natural TV (1080p)
+https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="NOWTV.tr" tvg-name="NOW TV" tvg-logo="https://i.imgur.com/5EYjWK7.png" tvg-country="TR" tvg-language="tur" group-title="Turks",NOW TV (720p)
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png" tvg-country="TR" tvg-language="tur" group-title="Turks",NTV (1080p)
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+#EXTINF:-1 tvg-id="Number1Ask.tr" tvg-name="Number 1 Ask" tvg-logo="https://i.imgur.com/slwbux7.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Number 1 Ask (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Number1Damar.tr" tvg-name="Number 1 Damar" tvg-logo="https://i.imgur.com/rYtbAGZ.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Number 1 Damar (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Number1Dance.tr" tvg-name="Number 1 Dance" tvg-logo="https://i.imgur.com/ZM4PSyq.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Number 1 Dance (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Number1TV.tr" tvg-name="Number 1 TV" tvg-logo="https://i.imgur.com/02cDIBi.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Number 1 TV (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OlayTurkTV.tr" tvg-name="OlayTurk TV" tvg-logo="https://i.imgur.com/e9ca6gc.png" tvg-country="TR" tvg-language="tur" group-title="Turks",OlayTurk TV (1080p)
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
+#EXTINF:-1 tvg-id="On4TV.tr" tvg-name="On4 TV" tvg-logo="https://i.imgur.com/qGRa1KI.png" tvg-country="TR" tvg-language="tur" group-title="Turks",On4 TV (1080p)
+https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerDance.tr" tvg-name="Power Dance" tvg-logo="https://i.imgur.com/QpPteBO.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Power Dance (1080p)
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerLove.tr" tvg-name="Power Love" tvg-logo="https://i.imgur.com/0RzUswR.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Power Love (1080p)
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTV.tr" tvg-name="Power TV" tvg-logo="https://i.imgur.com/XSL1gd7.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Power TV (1080p)
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkAkustik.tr" tvg-name="PowerTurk Akustik" tvg-logo="https://i.imgur.com/driabBO.png" tvg-country="TR" tvg-language="tur" group-title="Turks",PowerTurk Akustik (1080p)
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkSlow.tr" tvg-name="PowerTurk Slow" tvg-logo="https://i.imgur.com/tQSoQXW.png" tvg-country="TR" tvg-language="tur" group-title="Turks",PowerTurk Slow (1080p)
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr" tvg-name="PowerTurk Taptaze" tvg-logo="https://i.imgur.com/a5nW3HU.png" tvg-country="TR" tvg-language="tur" group-title="Turks",PowerTurk Taptaze (1080p)
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-name="PowerTurk TV" tvg-logo="https://i.imgur.com/9OPoXQG.png" tvg-country="TR" tvg-language="tur" group-title="Turks",PowerTurk TV (1080p)
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
+#EXTINF:-1 tvg-id="QafTV.tr" tvg-name="Qaf TV" tvg-logo="https://i.imgur.com/hrk7Uce.png" tvg-country="TR" tvg-language="ara" group-title="Turks",Qaf TV (1080p)
+https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8
+#EXTINF:-1 tvg-id="SSport.tr" tvg-name="S Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" tvg-country="TR" tvg-language="tur" group-title="Turks",S Sport (720p)
+https://corestream.siteyaptim.live/s-sport/index.m3u8
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport 2" tvg-logo="https://i.imgur.com/2jIItAy.png" tvg-country="TR" tvg-language="tur" group-title="Turks",S Sport 2 (720p)
+https://corestream.siteyaptim.live/s-sport2/index.m3u8
+#EXTINF:-1 tvg-id="SemerkandTV.tr" tvg-name="Semerkand TV" tvg-logo="https://i.imgur.com/UVGGrQd.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Semerkand TV (1080p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SercemTV.tr" tvg-name="Sercem TV" tvg-logo="https://sercemtv.com.tr/sercemlogo.jpg" tvg-country="TR" tvg-language="tur" group-title="Turks",Sercem TV (1080p)
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-name="Show Turk" tvg-logo="https://i.imgur.com/fdZpGDj.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Show Turk (1080p)
+https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8
+#EXTINF:-1 tvg-id="SpacetoonTurkey.tr" tvg-name="Spacetoon Turkey" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Spacetoon Turkey (720p)
+https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://i.imgur.com/9O3DHRB.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Star TV (720p)
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
+#EXTINF:-1 tvg-id="SunRTV.tr" tvg-name="Sun RTV" tvg-logo="https://i.imgur.com/64tph9N.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Sun RTV (720p)
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TBMMTV.tr" tvg-name="TBMM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/960px-TBMM_TV_logo.svg.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TBMM TV (720p)
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 tvg-id="Tele1.tr" tvg-name="Tele 1" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Tele 1 (1080p)
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+#EXTINF:-1 tvg-id="TempoTV.tr" tvg-name="Tempo TV" tvg-logo="https://i.imgur.com/tZpx32y.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Tempo TV (720p)
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
+#EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-name="TGRT Belgesel" tvg-logo="https://i.imgur.com/VwWTnf0.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TGRT Belgesel (576p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber" tvg-logo="https://i.imgur.com/PrxwKDw.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TGRT Haber (360p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Tivi6.tr" tvg-name="Tivi 6" tvg-logo="https://i.imgur.com/Mbi0jbz.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Tivi 6 (720p)
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 tvg-id="TJKTV.tr" tvg-name="TJK TV" tvg-logo="https://i.imgur.com/3zHdkYG.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TJK TV (1080p)
+https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 tvg-id="TJKTV2.tr" tvg-name="TJK TV 2" tvg-logo="https://i.imgur.com/3zHdkYG.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TJK TV 2 (1080p)
+https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
+#EXTINF:-1 tvg-id="TonTV.tr" tvg-name="Ton TV" tvg-logo="https://i.imgur.com/f0Soeob.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Ton TV (1080p)
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TRT 1 (1440p)
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://i.imgur.com/iOCQdyD.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TRT 2 (1440p)
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT3.tr" tvg-name="TRT 3" tvg-logo="https://i.imgur.com/JrWFwBd.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TRT 3 (720p)
+https://tv-trt3.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTArabi.tr" tvg-name="TRT Arabi" tvg-logo="https://i.imgur.com/dEfI2M9.png" tvg-country="TR" tvg-language="ara" group-title="Turks",TRT Arabi (1440p)
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT Avaz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/960px-TRT_Avaz_logo.svg.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TRT Avaz (1440p)
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TRT Belgesel (720p)
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Cocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TRT Cocuk (1440p)
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-name="TRT Diyanet Cocuk" tvg-logo="https://i.imgur.com/8PmXz9t.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TRT Diyanet Cocuk (1440p)
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTEBA.tr" tvg-name="TRT EBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/960px-TRT_EBA_TV_logo.svg.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TRT EBA (720p)
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTEBAIlkokul.tr" tvg-name="TRT EBA Ilkokul" tvg-logo="https://i.imgur.com/CRBfZi4.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TRT EBA Ilkokul (720p)
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTEBALise.tr" tvg-name="TRT EBA Lise" tvg-logo="https://i.imgur.com/vj2L2L2.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TRT EBA Lise (720p)
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTGenc.tr" tvg-name="TRT Genc" tvg-logo="https://i.imgur.com/fCHQYWS.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TRT Genc (1440p)
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TRT Haber (1440p)
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT Kurdi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/960px-TRT_Kurd%C3%AE_logo.svg.png" tvg-country="TR" tvg-language="kur" group-title="Turks",TRT Kurdi (1440p)
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Muzik" tvg-logo="https://i.imgur.com/JgUzRH8.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TRT Muzik (1440p)
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor" tvg-logo="https://i.imgur.com/6tv0zxh.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TRT Spor (720p)
+https://corestream.siteyaptim.live/trt-spor/index.m3u8
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-name="TRT Spor Yildiz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TRT Spor Yildiz (1440p)
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TRT Turk (1440p)
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" tvg-country="TR" tvg-language="eng" group-title="Turks",TRT World (1440p)
+https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
+#EXTINF:-1 tvg-id="TurkHaberTV.tr" tvg-name="TurkHaber TV" tvg-logo="https://i.imgur.com/2AcRKdL.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TurkHaber TV (1080p)
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV1.tr" tvg-name="TV 1" tvg-logo="https://i.imgur.com/8CtrYVb.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TV 1 (720p)
+https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV 100" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/960px-TV100_logo.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TV 100
+https://7nyaler.streamhostingcdn.top/stream/46/index.m3u8
+#EXTINF:-1 tvg-id="TV264.tr" tvg-name="TV 264" tvg-logo="https://i.imgur.com/tudXdOZ.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TV 264 (1080p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV 4" tvg-logo="https://i.imgur.com/UpsQsbd.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TV 4 (720p)
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-id="TV41.tr" tvg-name="TV 41" tvg-logo="https://i.imgur.com/6T472LM.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TV 41 (720p)
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
+#EXTINF:-1 tvg-id="TV42.tr" tvg-name="TV 42" tvg-logo="https://www.tv42.com.tr/logo.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TV 42 (480p)
+https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d.m3u8
+#EXTINF:-1 tvg-id="TV52.tr" tvg-name="TV 52" tvg-logo="https://i.imgur.com/k4R5CzO.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TV 52 (720p)
+https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDen.tr" tvg-name="TV Den" tvg-logo="https://i.imgur.com/Uhg95Ze.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TV Den (576p)
+http://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/960px-Tv8_Yeni_Logo.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TV8 (1080p)
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1 tvg-id="TVNET.tr" tvg-name="TVNET" tvg-logo="https://i.imgur.com/mQo8yWQ.png" tvg-country="TR" tvg-language="tur" group-title="Turks",TVNET (1080p)
+https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ulke TV" tvg-logo="https://i.imgur.com/wdWR7Qk.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Ulke TV
+http://217.174.229.138:8000/play/a0el
+#EXTINF:-1 tvg-id="UrfaNatikTV.tr" tvg-name="Urfa Natik TV" tvg-logo="https://i.imgur.com/8KO0uxn.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Urfa Natik TV (1080p)
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
+#EXTINF:-1 tvg-id="Van65TV.tr" tvg-name="Van 65 TV" tvg-logo="https://van65tv.com/assets/images/logo/logo.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Van 65 TV (720p)
+https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
+#EXTINF:-1 tvg-id="VavTV.tr" tvg-name="Vav TV" tvg-logo="https://i.imgur.com/jw0gB8L.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Vav TV (1080p)
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.tr" tvg-name="Viasat History" tvg-logo="https://i.imgur.com/wRP9XA7.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Viasat History (720p)
+https://nord.ayakkabiparti.lol/viasathistory/index.m3u8
+#EXTINF:-1 tvg-id="ZarokTV.tr" tvg-name="Zarok TV" tvg-logo="https://i.imgur.com/o0eevnb.png" tvg-country="TR" tvg-language="kur" group-title="Turks",Zarok TV (720p)
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
