@@ -6,13 +6,13 @@ Channels in source (TR): 423
 Selected streams in output: 369
 M3U syntax errors: 0
 
-ffprobe passed: 265
-ffprobe failed: 104
+ffprobe passed: 264
+ffprobe failed: 105
 
 001 [NL] OK | 1AlmereTV | https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8 | hls
 002 [NL] OK | 1Twente TV | https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8 | hls
 003 [NL] OK | 360TuneBox | https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8 | hls
-004 [NL] OK | A1 TV | https://www.a1mediagroep.nl/hls/a1tv.m3u8 | hls
+004 [NL] OK | A1 TV | https://stream.a1mediagroep.nl/hls/a1tv.m3u8 | hls
 005 [NL] OK | Altena TV | https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8 | hls
 006 [NL] OK | Assen TV | https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live | hls
 007 [NL] OK | AT5 | https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live | hls
@@ -20,8 +20,8 @@ ffprobe failed: 104
 009 [NL] OK | BNR Nieuwsradio | https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8 | hls
 010 [NL] OK | BR6 TV | https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8 | hls
 011 [NL] OK | Canal+ Action Europe | http://151.80.18.177:86/Canal+_Family_HD/index.m3u8 | hls
-012 [NL] OK | Dance Television | https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8 | hls
-013 [NL] OK | Deep House District | https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8 | hls
+012 [NL] FAIL | Dance Television | https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8 | https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8: End of file
+013 [NL] FAIL | Deep House District | https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8 | https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8: End of file
 014 [NL] FAIL | Den Haag TV | http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8 | http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8: Connection timed out
 015 [NL] FAIL | Disney Channel | http://86.87.15.10:8004/play/a02g/index.m3u8 | http://86.87.15.10:8004/play/a02g/index.m3u8: Server returned 403 Forbidden (access denied)
 016 [NL] OK | Dit is Helmond | http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8 | hls
@@ -45,11 +45,11 @@ ffprobe failed: 104
 034 [NL] FAIL | HTR TV | https://ms7.mx-cd.net/tv/286-3043214/HTR_Media_TV.smil/playlist.m3u8 | https://ms7.mx-cd.net/tv/286-3043214/HTR_Media_TV.smil/playlist.m3u8: Server returned 404 Not Found
 035 [NL] OK | Hype Visual Radio | https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8 | hls
 036 [NL] OK | Ideaal TV | https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8 | hls
-037 [NL] OK | INFAST | https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8 | hls
+037 [NL] OK | INFAST | https://lifestyle-rakuten.amagi.tv/playlist.m3u8 | hls
 038 [NL] OK | INTRAVEL | https://amg00861-terncloud-amg00861c10-samsung-gb-2298.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-intravelsamsunguk-samsunggb/playlist.m3u8 | hls
 039 [NL] OK | InTrouble | https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8 | hls
 040 [NL] OK | INWILD | https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8 | hls
-041 [NL] OK | InWonder | https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8 | hls
+041 [NL] OK | InWonder | https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8 | hls
 042 [NL] OK | Jin TV | https://live.jintv.org/medialive/jintv.m3u8 | hls
 043 [NL] OK | KempenTV | https://ms2.mx-cd.net/tv/242-2079866/Omroep_de_Kempen.smil/playlist.m3u8 | hls
 044 [NL] OK | L1 TV | https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8 | hls
@@ -64,7 +64,7 @@ ffprobe failed: 104
 053 [NL] OK | MaLive | https://live.salto.nl/hls/malive_high.m3u8 | hls
 054 [NL] FAIL | Meer TV | https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8 | https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8: Server returned 403 Forbidden (access denied)
 055 [NL] OK | MerweTV | https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8 | hls
-056 [NL] FAIL | ML5 TV | https://ms2.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8 | https://ms2.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8: Server returned 404 Not Found
+056 [NL] FAIL | ML5 TV | https://ms7.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8 | https://ms7.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8: Server returned 404 Not Found
 057 [NL] OK | National Geographic | http://46.32.176.50/NationalGeographicHD/index.m3u8 | hls
 058 [NL] OK | NH | https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live | hls
 059 [NL] OK | Nicktoons Scandinavia | http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PE7C639D6VY8TCQQ4BYRZT7X/12059/index.m3u8 | hls
@@ -164,12 +164,12 @@ ffprobe failed: 104
 153 [NL] FAIL | Tweede Kamer: Tilanuskamer | https://livestream.tweedekamer.nl/live/tilanuskamer/73/prog_index.m3u8 | https://livestream.tweedekamer.nl/live/tilanuskamer/73/prog_index.m3u8: Input/output error
 154 [NL] FAIL | Tweede Kamer: Troelstrazaal | https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live | https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live: Server returned 403 Forbidden (access denied)
 155 [NL] FAIL | Tweede Kamer: Wttewaall van Stoetwegenzaal | https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live | https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live: Server returned 403 Forbidden (access denied)
-156 [NL] OK | UStad | https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8 | hls
+156 [NL] OK | UStad | http://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8 | hls
 157 [NL] OK | Vechtdal TV | https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8 | hls
 158 [NL] OK | WeertFM TV | https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8 | hls
-159 [NL] OK | WOS | https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8 | hls
+159 [NL] OK | WOS | https://ms7.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8 | hls
 160 [NL] FAIL | XITE | https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8 | https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8: Server returned 404 Not Found
-161 [NL] OK | XITE Classic Country | https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8 | hls
+161 [NL] OK | XITE Classic Country | https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8 | hls
 162 [NL] OK | XITE Hits | https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8 | hls
 163 [NL] OK | XITE Just Chill | https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8 | hls
 164 [NL] OK | XITE Reggae Vibes | https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8 | hls
@@ -180,12 +180,12 @@ ffprobe failed: 104
 169 [NL] FAIL | Ziggo Sport 2 | http://86.87.15.10:8004/play/a02b/index.m3u8 | http://86.87.15.10:8004/play/a02b/index.m3u8: Server returned 403 Forbidden (access denied)
 170 [NL] FAIL | Ziggo Sport 5 | http://145.239.5.177/349/index.m3u8 | http://145.239.5.177/349/index.m3u8: Server returned 403 Forbidden (access denied)
 171 [NL] OK | ZO!34 | https://video.uitzending.tv:19360/zo34/zo34.m3u8 | hls
-172 [TR] OK | 24 TV | https://turkmedya-live.ercdn.net/tv24/tv24.m3u8 | hls
+172 [TR] OK | 24 TV | https://tv.ensonhaber.com/tv24/tv24.m3u8 | hls
 173 [TR] OK | 360 | https://turkmedya-live.ercdn.net/tv360/tv360.m3u8 | hls
 174 [TR] OK | 4U TV | https://hls.4utv.live/hls/stream.m3u8 | hls
 175 [TR] OK | A Haber | https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8 | hls
-176 [TR] FAIL | A Spor | https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8 | Command '['ffprobe', '-v', 'error', '-rw_timeout', '10000000', '-user_agent', 'Mozilla/5.0', '-show_entries', 'format=format_name', '-of', 'default=nw=1:nk=1', 'https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8']' timed out after 15 seconds
-177 [TR] OK | A2TV | https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8 | hls
+176 [TR] OK | A Spor | https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8 | hls
+177 [TR] FAIL | A2TV | https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8 | Command '['ffprobe', '-v', 'error', '-rw_timeout', '10000000', '-user_agent', 'Mozilla/5.0', '-show_entries', 'format=format_name', '-of', 'default=nw=1:nk=1', 'https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8']' timed out after 15 seconds
 178 [TR] OK | Afroturk TV | https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8 | hls
 179 [TR] OK | Aksu TV | https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8 | hls
 180 [TR] FAIL | Al-Rafidain TV | https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8 | https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8: Server returned 5XX Server Error reply
@@ -194,7 +194,7 @@ ffprobe failed: 104
 183 [TR] OK | Almahriah TV | https://starmenajo.com/hls/almahriah/index.m3u8 | hls
 184 [TR] OK | Altas TV | https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8 | hls
 185 [TR] OK | Anadolu Net TV | https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8 | hls
-186 [TR] FAIL | Aras TV | http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8 | http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8: Server returned 404 Not Found
+186 [TR] OK | Aras TV | http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8 | hls
 187 [TR] OK | AS TV | https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8 | hls
 188 [TR] OK | ATV | http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8 | hls
 189 [TR] OK | ATV Alanya | https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8 | hls
@@ -234,7 +234,7 @@ ffprobe failed: 104
 223 [TR] OK | FB TV | http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8 | hls
 224 [TR] OK | Finans Turk TV | https://yayin30.haber100.com/live/finansturk/playlist.m3u8 | hls
 225 [TR] OK | Flash Haber TV | https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8 | hls
-226 [TR] OK | Fortuna TV | https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8 | hls
+226 [TR] OK | Fortuna TV | https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8 | hls
 227 [TR] FAIL | GEM 24B | https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202 | https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202: Server returned 403 Forbidden (access denied)
 228 [TR] FAIL | GEM Bollywood | https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202 | https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202: Server returned 403 Forbidden (access denied)
 229 [TR] FAIL | GEM Classic | https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202 | https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202: Server returned 403 Forbidden (access denied)
@@ -284,7 +284,7 @@ ffprobe failed: 104
 273 [TR] FAIL | Kanal 7 | https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8 | Command '['ffprobe', '-v', 'error', '-rw_timeout', '10000000', '-user_agent', 'Mozilla/5.0', '-show_entries', 'format=format_name', '-of', 'default=nw=1:nk=1', 'https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8']' timed out after 15 seconds
 274 [TR] OK | Kanal 7 Avrupa | https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8 | hls
 275 [TR] OK | Kanal D | https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3 | hls
-276 [TR] OK | Kanal D Drama | http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD.stream/playlist.m3u8 | hls
+276 [TR] OK | Kanal D Drama | https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8 | hls
 277 [TR] OK | Kanal Firat | https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8 | hls
 278 [TR] OK | Kanal Hayat | https://tbn02a.ltnschedule.com/hls/nx21i.m3u8 | hls
 279 [TR] OK | Kanal V | https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8 | hls
@@ -306,10 +306,10 @@ ffprobe failed: 104
 295 [TR] OK | Minika Go | https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8 | hls
 296 [TR] FAIL | MovieSmart Turk | http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174 | http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174: Connection reset by peer
 297 [TR] OK | MTurk TV | https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8 | hls
-298 [TR] FAIL | National Geographic | https://nord.ayakkabiparti.lol/natgeo/index.m3u8 | https://nord.ayakkabiparti.lol/natgeo/index.m3u8: Connection reset by peer
+298 [TR] FAIL | National Geographic | https://nord.ayakkabiparti.lol/natgeo/index.m3u8 | https://nord.ayakkabiparti.lol/natgeo/index.m3u8: Invalid data found when processing input
 299 [TR] FAIL | National Geographic Wild | https://nord.ayakkabiparti.lol/natgeowild/index.m3u8 | https://nord.ayakkabiparti.lol/natgeowild/index.m3u8: Invalid data found when processing input
 300 [TR] OK | Natural TV | https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8 | hls
-301 [TR] FAIL | NOW TV | https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8 | Command '['ffprobe', '-v', 'error', '-rw_timeout', '10000000', '-user_agent', 'Mozilla/5.0', '-show_entries', 'format=format_name', '-of', 'default=nw=1:nk=1', 'https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8']' timed out after 15 seconds
+301 [TR] OK | NOW TV | https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8 | hls
 302 [TR] OK | NTV | https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web | hls
 303 [TR] OK | Number 1 Ask | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8 | hls
 304 [TR] OK | Number 1 Damar | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8 | hls
@@ -334,7 +334,7 @@ ffprobe failed: 104
 323 [TR] OK | Star TV | https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5 | hls
 324 [TR] OK | Sun RTV | https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8 | hls
 325 [TR] OK | TBMM TV | https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8 | hls
-326 [TR] OK | Tele 1 | https://tele1-live.ercdn.net/tele1/tele1.m3u8 | hls
+326 [TR] FAIL | Tele 1 | https://tele1-live.ercdn.net/tele1/tele1.m3u8 | https://tele1-live.ercdn.net/tele1/tele1.m3u8: Server returned 404 Not Found
 327 [TR] OK | Tempo TV | https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8 | hls
 328 [TR] OK | TGRT Belgesel | https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8 | hls
 329 [TR] OK | TGRT Haber | https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8 | hls
