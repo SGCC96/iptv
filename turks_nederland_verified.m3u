@@ -129,6 +129,10 @@ https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&prot
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PE7C639D6VY8TCQQ4BYRZT7X/12059/index.m3u8
 #EXTINF:-1 tvg-id="NOOSTV.nl" tvg-name="NOOS TV" tvg-logo="https://i.imgur.com/X8xLcpT.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",NOOS TV (720p)
 https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NPO1.nl" tvg-name="NPO 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/960px-NPO_1_logo_2014.svg.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",NPO 1 (720p)
+https://bpm.tv.delta.nl/hls/combined/1/mobile.m3u8
+#EXTINF:-1 tvg-id="NPO2.nl" tvg-name="NPO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/960px-NPO_2_logo_2014.svg.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",NPO 2 (720p)
+https://bpm.tv.delta.nl/hls/combined/2/mobile.m3u8
 #EXTINF:-1 tvg-id="NPO3.nl" tvg-name="NPO 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NPO_3_logo_2018.svg/960px-NPO_3_logo_2018.svg.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",NPO 3 (720p)
 https://bpm.tv.delta.nl/hls/combined/3/mobile.m3u8
 #EXTINF:-1 tvg-id="OmroepBrabant.nl" tvg-name="Omroep Brabant" tvg-logo="https://i.imgur.com/KLYsKKC.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Omroep Brabant (1080p)
