@@ -2,12 +2,12 @@ Turkish + Dutch IPTV validation report
 =======================================
 Source API: https://dearbulut.github.io/iptv/api/v1/by-country/nl.json and https://dearbulut.github.io/iptv/api/v1/by-country/tr.json
 Channels in source (NL): 347
-Channels in source (TR): 423
+Channels in source (TR): 425
 Selected streams in output: 371
 M3U syntax errors: 0
 
-ffprobe passed: 262
-ffprobe failed: 109
+ffprobe passed: 261
+ffprobe failed: 110
 
 001 [NL] OK | 1AlmereTV | https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8 | hls
 002 [NL] OK | 1Twente TV | https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8 | hls
@@ -185,7 +185,7 @@ ffprobe failed: 109
 174 [TR] OK | 24 TV | https://tv.ensonhaber.com/tv24/tv24.m3u8 | hls
 175 [TR] OK | 360 | https://turkmedya-live.ercdn.net/tv360/tv360.m3u8 | hls
 176 [TR] OK | 4U TV | https://hls.4utv.live/hls/stream.m3u8 | hls
-177 [TR] OK | A Haber | https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8 | hls
+177 [TR] FAIL | A Haber | https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8 | Command '['ffprobe', '-v', 'error', '-rw_timeout', '10000000', '-user_agent', 'Mozilla/5.0', '-show_entries', 'format=format_name', '-of', 'default=nw=1:nk=1', 'https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8']' timed out after 15 seconds
 178 [TR] FAIL | A Spor | https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8 | Command '['ffprobe', '-v', 'error', '-rw_timeout', '10000000', '-user_agent', 'Mozilla/5.0', '-show_entries', 'format=format_name', '-of', 'default=nw=1:nk=1', 'https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8']' timed out after 15 seconds
 179 [TR] OK | A2TV | https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8 | hls
 180 [TR] OK | Afroturk TV | https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8 | hls
@@ -260,7 +260,7 @@ ffprobe failed: 109
 249 [TR] FAIL | GEM Rubix | https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202 | https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202: Server returned 403 Forbidden (access denied)
 250 [TR] FAIL | GEM Rubix + | https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202 | https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202: Server returned 403 Forbidden (access denied)
 251 [TR] FAIL | GEM Series + | https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202 | https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202: Server returned 403 Forbidden (access denied)
-252 [TR] FAIL | GEM Sport | https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8 | https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8: Server returned 404 Not Found
+252 [TR] FAIL | GEM Sport | https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8 | https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8: Server returned 403 Forbidden (access denied)
 253 [TR] FAIL | GEM TV | https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202 | https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202: Server returned 403 Forbidden (access denied)
 254 [TR] FAIL | GEM TV + | https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202 | https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202: Server returned 403 Forbidden (access denied)
 255 [TR] OK | Grand Cinema | https://gcinemahls.wns.live/hls/stream.m3u8 | hls
@@ -311,7 +311,7 @@ ffprobe failed: 109
 300 [TR] FAIL | National Geographic | https://nord.ayakkabiparti.lol/natgeo/index.m3u8 | https://nord.ayakkabiparti.lol/natgeo/index.m3u8: Invalid data found when processing input
 301 [TR] FAIL | National Geographic Wild | https://nord.ayakkabiparti.lol/natgeowild/index.m3u8 | https://nord.ayakkabiparti.lol/natgeowild/index.m3u8: Invalid data found when processing input
 302 [TR] OK | Natural TV | https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8 | hls
-303 [TR] FAIL | NOW TV | https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8 | Command '['ffprobe', '-v', 'error', '-rw_timeout', '10000000', '-user_agent', 'Mozilla/5.0', '-show_entries', 'format=format_name', '-of', 'default=nw=1:nk=1', 'https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8']' timed out after 15 seconds
+303 [TR] OK | NOW TV | https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8 | hls
 304 [TR] OK | NTV | https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web | hls
 305 [TR] OK | Number 1 Ask | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8 | hls
 306 [TR] OK | Number 1 Damar | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8 | hls
@@ -341,7 +341,7 @@ ffprobe failed: 109
 330 [TR] OK | TGRT Belgesel | https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8 | hls
 331 [TR] OK | TGRT Haber | https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8 | hls
 332 [TR] OK | Tivi 6 | https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8 | hls
-333 [TR] OK | TJK TV | https://tjktv-live.tjk.org/tjktv.m3u8 | hls
+333 [TR] FAIL | TJK TV | https://tjktv-live.tjk.org/tjktv.m3u8 | Command '['ffprobe', '-v', 'error', '-rw_timeout', '10000000', '-user_agent', 'Mozilla/5.0', '-show_entries', 'format=format_name', '-of', 'default=nw=1:nk=1', 'https://tjktv-live.tjk.org/tjktv.m3u8']' timed out after 15 seconds
 334 [TR] FAIL | TJK TV 2 | https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8 | https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8: Server returned 401 Unauthorized (authorization failed)
 335 [TR] OK | Ton TV | https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8 | hls
 336 [TR] OK | TRT 1 | https://tv-trt1.medya.trt.com.tr/master.m3u8 | hls
@@ -353,7 +353,7 @@ ffprobe failed: 109
 342 [TR] OK | TRT Cocuk | https://tv-trtcocuk.medya.trt.com.tr/master.m3u8 | hls
 343 [TR] OK | TRT Diyanet Cocuk | https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8 | hls
 344 [TR] OK | TRT EBA | https://tv-e-okul01.medya.trt.com.tr/master.m3u8 | hls
-345 [TR] FAIL | TRT EBA Ilkokul | https://tv-e-okul00.medya.trt.com.tr/master.m3u8 | https://tv-e-okul00.medya.trt.com.tr/master.m3u8: Invalid data found when processing input
+345 [TR] FAIL | TRT EBA Ilkokul | https://tv-e-okul00.medya.trt.com.tr/master.m3u8 | Command '['ffprobe', '-v', 'error', '-rw_timeout', '10000000', '-user_agent', 'Mozilla/5.0', '-show_entries', 'format=format_name', '-of', 'default=nw=1:nk=1', 'https://tv-e-okul00.medya.trt.com.tr/master.m3u8']' timed out after 15 seconds
 346 [TR] FAIL | TRT EBA Lise | https://tv-e-okul02.medya.trt.com.tr/master.m3u8 | https://tv-e-okul02.medya.trt.com.tr/master.m3u8: Invalid data found when processing input
 347 [TR] FAIL | TRT Genc | https://tv-trtgenc.medya.trt.com.tr/master.m3u8 | https://tv-trtgenc.medya.trt.com.tr/master.m3u8: Server returned 403 Forbidden (access denied)
 348 [TR] OK | TRT Haber | https://tv-trthaber.medya.trt.com.tr/master.m3u8 | hls
