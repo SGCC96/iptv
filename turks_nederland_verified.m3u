@@ -6,7 +6,7 @@ https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b42
 #EXTINF:-1 tvg-id="360TuneBox.nl" tvg-name="360TuneBox" tvg-logo="https://i.imgur.com/1Fyezng.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",360TuneBox (1080p)
 https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="A1TV.nl" tvg-name="A1 TV" tvg-logo="https://i.imgur.com/JZ1oTM2.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",A1 TV (1080p)
-https://www.a1mediagroep.nl/hls/a1tv.m3u8
+https://stream.a1mediagroep.nl/hls/a1tv.m3u8
 #EXTINF:-1 tvg-id="AltenaTV.nl" tvg-name="Altena TV" tvg-logo="https://i.imgur.com/0wblu0I.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Altena TV (720p)
 https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
 #EXTINF:-1 tvg-id="AssenTV.nl" tvg-name="Assen TV" tvg-logo="https://i.imgur.com/upik15D.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Assen TV (720p)
@@ -92,7 +92,7 @@ https://amg00861-terninternation-inwonderushd-samsungus-gqtpa.amagi.tv/playlist/
 #EXTINF:-1 tvg-id="JinTV.nl" tvg-name="Jin TV" tvg-logo="https://i.imgur.com/37ajg2j.png" tvg-country="NL" tvg-language="kur" group-title="Nederlands",Jin TV
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-id="KempenTV.nl" tvg-name="KempenTV" tvg-logo="https://i.imgur.com/ZiPL9ar.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",KempenTV (720p)
-http://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8
+https://ms2.mx-cd.net/tv/242-2079866/Omroep_de_Kempen.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="L1TV.nl" tvg-name="L1 TV" tvg-logo="https://i.imgur.com/SDD5KS5.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",L1 TV (720p)
 https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 #EXTINF:-1 tvg-id="LangstraatTV.nl" tvg-name="Langstraat TV" tvg-logo="https://i.imgur.com/xchUfks.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Langstraat TV (720p)
@@ -324,7 +324,7 @@ https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&
 #EXTINF:-1 tvg-id="TweedeKamerWttewaallvanStoetwegenzaal.nl" tvg-name="Tweede Kamer: Wttewaall van Stoetwegenzaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Tweede Kamer: Wttewaall van Stoetwegenzaal (1080p)
 https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
 #EXTINF:-1 tvg-id="UStad.nl" tvg-name="UStad" tvg-logo="https://i.imgur.com/9F8ieEz.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",UStad (1080p)
-http://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
 #EXTINF:-1 tvg-id="VechtdalTV.nl" tvg-name="Vechtdal TV" tvg-logo="https://i.imgur.com/MhcKEwr.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Vechtdal TV (720p)
 https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WeertFMTV.nl" tvg-name="WeertFM TV" tvg-logo="https://i.imgur.com/8bt6xt2.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",WeertFM TV (720p)
@@ -533,7 +533,7 @@ https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="Haber Global" tvg-logo="https://i.imgur.com/fu6XeGS.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Haber Global (720p)
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="Haber61TV.tr" tvg-name="Haber61 TV" tvg-logo="https://i.imgur.com/2a2XUKl.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Haber61 TV (720p)
-https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
 #EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-name="Haberturk TV" tvg-logo="https://i.imgur.com/6Tw3rUp.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Haberturk TV (1080p)
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV" tvg-logo="https://i.imgur.com/xM0HA30.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Halk TV (1080p)
@@ -571,8 +571,7 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://i.imgur.com/9o1atM6.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kanal D (1080p)
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-name="Kanal D Drama" tvg-logo="https://i.imgur.com/WIeZMKT.png" tvg-country="TR" tvg-language="sqi" group-title="Turks",Kanal D Drama (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD.stream/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalFirat.tr" tvg-name="Kanal Firat" tvg-logo="https://i.imgur.com/3o8Rokp.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kanal Firat (720p)
 https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalHayat.tr" tvg-name="Kanal Hayat" tvg-logo="https://i.imgur.com/eikZj19.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Kanal Hayat (1080p)
