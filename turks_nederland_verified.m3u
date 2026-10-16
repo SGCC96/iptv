@@ -323,7 +323,7 @@ https://stream.studiorhedenlive.nl/hlstv/stream.m3u8
 #EXTINF:-1 tvg-id="Studio040TV.nl" tvg-name="Studio040 TV" tvg-logo="https://i.imgur.com/NBludRL.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Studio040 TV (720p)
 https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8
 #EXTINF:-1 tvg-id="TMF.nl" tvg-name="TMF" tvg-logo="https://www.maxx-xs.nl/images/assets/3/c/3c123778ef66464786705dc4138303ec/COV/cover_l_01.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",TMF (1080p)
-https://tmf-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMGMzZGFhOGYtYjNhMC00Njk1LThkZTktZWNmNmVmNzRmMzY4IiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8
+https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/TMF.m3u8
 #EXTINF:-1 tvg-id="TVEllef.nl" tvg-name="TV Ellef" tvg-logo="https://i.imgur.com/FaCd2QY.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",TV Ellef (1080p)
 http://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRain.nl" tvg-name="TV Rain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/960px-Tvrain.svg.png" tvg-country="NL" tvg-language="rus" group-title="Nederlands",TV Rain (1080p)
