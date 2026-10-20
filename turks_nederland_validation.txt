@@ -6,22 +6,22 @@ Channels in source (TR): 434
 Selected streams in output: 384
 M3U syntax errors: 0
 
-ffprobe passed: 266
-ffprobe failed: 118
+ffprobe passed: 260
+ffprobe failed: 124
 
 001 [NL] OK | 1AlmereTV | https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8 | hls
 002 [NL] OK | 1Twente TV | https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8 | hls
 003 [NL] OK | 360TuneBox | https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8 | hls
 004 [NL] OK | A1 TV | https://www.a1mediagroep.nl/hls/a1tv.m3u8 | hls
 005 [NL] OK | Altena TV | https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8 | hls
-006 [NL] FAIL | Assen TV | https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live | https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live: Invalid data found when processing input
+006 [NL] OK | Assen TV | https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live | hls
 007 [NL] OK | AT5 | https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live | hls
 008 [NL] FAIL | BBC NL | https://lb.iptvnetwork.net/ls28/10021/playlist.m3u8 | https://lb.iptvnetwork.net/ls28/10021/playlist.m3u8: Input/output error
 009 [NL] OK | BEATTV | https://tv.beatfm.nl/live.m3u8 | hls
 010 [NL] OK | BNR Nieuwsradio | https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8 | hls
 011 [NL] OK | BR6 TV | https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8 | hls
 012 [NL] FAIL | BVN | https://tv.ft.md.npox.nl/2D3RhEOhAQWhBE5ucG8tcHJvZC1jYXQtMVhtpQFubnBvLXBsYXllci1hcGkEGmrU6TAHUMoWYxpMO-JwSGbPSI_FUeUZATYBGQE4owChAGVodHRwcwGhAHB0di5mdC5tZC5ucG94Lm5sBaEBeBovTDIvYzA2MjBmYWYvMjdlYTIwODguaXNtbFggydhaqdtF_IHCX4a0VwNuBEfPoPT2H6JQxyZeZQoJUxk/L2/c0620faf/27ea2088.isml/dash.mpd | https://tv.ft.md.npox.nl/2D3RhEOhAQWhBE5ucG8tcHJvZC1jYXQtMVhtpQFubnBvLXBsYXllci1hcGkEGmrU6TAHUMoWYxpMO-JwSGbPSI_FUeUZATYBGQE4owChAGVodHRwcwGhAHB0di5mdC5tZC5ucG94Lm5sBaEBeBovTDIvYzA2MjBmYWYvMjdlYTIwODguaXNtbFggydhaqdtF_IHCX4a0VwNuBEfPoPT2H6JQxyZeZQoJUxk/L2/c0620faf/27ea2088.isml/dash.mpd: Server returned 401 Unauthorized (authorization failed)
-013 [NL] FAIL | Canal+ Action Europe | http://46.149.191.219:9106/play/a01g | http://46.149.191.219:9106/play/a01g: Connection timed out
+013 [NL] OK | Canal+ Action Europe | http://46.149.191.219:9106/play/a01g | mpegts
 014 [NL] OK | Dance Television | https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8 | hls
 015 [NL] OK | Deep House District | https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8 | hls
 016 [NL] FAIL | Den Haag TV | http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8 | http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8: Connection timed out
@@ -194,7 +194,7 @@ ffprobe failed: 118
 183 [TR] OK | 360 | https://turkmedya-live.ercdn.net/tv360/tv360.m3u8 | hls
 184 [TR] OK | 4U TV | https://hls.4utv.live/hls/stream.m3u8 | hls
 185 [TR] OK | A Haber | https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8 | hls
-186 [TR] OK | A Spor | https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8 | hls
+186 [TR] FAIL | A Spor | https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8 | Command '['ffprobe', '-v', 'error', '-rw_timeout', '10000000', '-user_agent', 'Mozilla/5.0', '-show_entries', 'format=format_name', '-of', 'default=nw=1:nk=1', 'https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8']' timed out after 15 seconds
 187 [TR] FAIL | A2TV | https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8 | Command '['ffprobe', '-v', 'error', '-rw_timeout', '10000000', '-user_agent', 'Mozilla/5.0', '-show_entries', 'format=format_name', '-of', 'default=nw=1:nk=1', 'https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8']' timed out after 15 seconds
 188 [TR] OK | Afroturk TV | https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8 | hls
 189 [TR] OK | Aksu TV | https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8 | hls
@@ -214,12 +214,12 @@ ffprobe failed: 118
 203 [TR] FAIL | beIN Box Office 3 | https://nord.ayakkabiparti.lol/box3/index.m3u8 | https://nord.ayakkabiparti.lol/box3/index.m3u8: Input/output error
 204 [TR] FAIL | beIN Movies Stars | https://nord.ayakkabiparti.lol/bsaction1/index.m3u8 | https://nord.ayakkabiparti.lol/bsaction1/index.m3u8: Input/output error
 205 [TR] FAIL | beIN Movies Turk | https://nord.ayakkabiparti.lol/bsturk/index.m3u8 | https://nord.ayakkabiparti.lol/bsturk/index.m3u8: Input/output error
-206 [TR] OK | beIN Sports 1 Turk | https://andro.mangeinde4.lat/checklist/androstreamlivebs1.m3u8 | hls
-207 [TR] OK | beIN Sports 2 Turk | https://andro.mangeinde4.lat/checklist/androstreamlivebs2.m3u8 | hls
-208 [TR] OK | beIN Sports 3 Turk | https://andro.mangeinde4.lat/checklist/androstreamlivebs3.m3u8 | hls
-209 [TR] OK | beIN Sports 4 Turk | https://andro.mangeinde4.lat/checklist/androstreamlivebs4.m3u8 | hls
-210 [TR] OK | beIN Sports 5 Turk | https://andro.mangeinde4.lat/checklist/androstreamlivebs5.m3u8 | hls
-211 [TR] OK | beIN Sports Haber | https://andro.mangeinde4.lat/checklist/androstreamlivebsh.m3u8 | hls
+206 [TR] FAIL | beIN Sports 1 Turk | https://andro.mangeinde4.lat/checklist/androstreamlivebs1.m3u8 | https://andro.mangeinde4.lat/checklist/androstreamlivebs1.m3u8: Input/output error
+207 [TR] FAIL | beIN Sports 2 Turk | https://andro.mangeinde4.lat/checklist/androstreamlivebs2.m3u8 | https://andro.mangeinde4.lat/checklist/androstreamlivebs2.m3u8: Input/output error
+208 [TR] FAIL | beIN Sports 3 Turk | https://andro.mangeinde4.lat/checklist/androstreamlivebs3.m3u8 | https://andro.mangeinde4.lat/checklist/androstreamlivebs3.m3u8: Input/output error
+209 [TR] FAIL | beIN Sports 4 Turk | https://andro.mangeinde4.lat/checklist/androstreamlivebs4.m3u8 | https://andro.mangeinde4.lat/checklist/androstreamlivebs4.m3u8: Input/output error
+210 [TR] FAIL | beIN Sports 5 Turk | https://andro.mangeinde4.lat/checklist/androstreamlivebs5.m3u8 | https://andro.mangeinde4.lat/checklist/androstreamlivebs5.m3u8: Input/output error
+211 [TR] FAIL | beIN Sports Haber | https://andro.mangeinde4.lat/checklist/androstreamlivebsh.m3u8 | https://andro.mangeinde4.lat/checklist/androstreamlivebsh.m3u8: Input/output error
 212 [TR] OK | Benguturk TV | https://tv.ensonhaber.com/benguturk/benguturk.m3u8 | hls
 213 [TR] FAIL | Beyaz TV | https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8 | https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8: Connection reset by peer
 214 [TR] OK | Bir TV | https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8 | hls
@@ -300,7 +300,7 @@ ffprobe failed: 118
 289 [TR] FAIL | Kanal 7 | https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8 | Command '['ffprobe', '-v', 'error', '-rw_timeout', '10000000', '-user_agent', 'Mozilla/5.0', '-show_entries', 'format=format_name', '-of', 'default=nw=1:nk=1', 'https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8']' timed out after 15 seconds
 290 [TR] OK | Kanal 7 Avrupa | https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8 | hls
 291 [TR] OK | Kanal D | https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3 | hls
-292 [TR] OK | Kanal D Drama | http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD.stream/playlist.m3u8 | hls
+292 [TR] FAIL | Kanal D Drama | http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD.stream/playlist.m3u8 | http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD.stream/playlist.m3u8: Server returned 403 Forbidden (access denied)
 293 [TR] OK | Kanal Firat | https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8 | hls
 294 [TR] FAIL | Kanal Hayat | https://tbn02a.ltnschedule.com/hls/nx21i.m3u8 | https://tbn02a.ltnschedule.com/hls/nx21i.m3u8: Input/output error
 295 [TR] OK | Kanal V | https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8 | hls
@@ -357,18 +357,18 @@ ffprobe failed: 118
 346 [TR] OK | TJK TV | https://tjktv-live.tjk.org/tjktv.m3u8 | hls
 347 [TR] FAIL | TJK TV 2 | https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8 | https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8: Server returned 401 Unauthorized (authorization failed)
 348 [TR] OK | Ton TV | https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8 | hls
-349 [TR] FAIL | TRT 1 | https://tv-trt1.medya.trt.com.tr/master.m3u8 | https://tv-trt1.medya.trt.com.tr/master.m3u8: Server returned 403 Forbidden (access denied)
-350 [TR] OK | TRT 2 | https://tv-trt2.medya.trt.com.tr/master.m3u8 | hls
+349 [TR] OK | TRT 1 | https://tv-trt1.medya.trt.com.tr/master.m3u8 | hls
+350 [TR] FAIL | TRT 2 | https://tv-trt2.medya.trt.com.tr/master.m3u8 | https://tv-trt2.medya.trt.com.tr/master.m3u8: Server returned 403 Forbidden (access denied)
 351 [TR] OK | TRT 3 | https://tv-trt3.live.trt.com.tr/master.m3u8 | hls
 352 [TR] OK | TRT Arabi | https://tv-trtarabi.medya.trt.com.tr/master.m3u8 | hls
 353 [TR] OK | TRT Avaz | https://tv-trtavaz.medya.trt.com.tr/master.m3u8 | hls
 354 [TR] FAIL | TRT Belgesel | https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8 | https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8: Server returned 403 Forbidden (access denied)
-355 [TR] FAIL | TRT Cocuk | https://tv-trtcocuk.medya.trt.com.tr/master.m3u8 | https://tv-trtcocuk.medya.trt.com.tr/master.m3u8: Server returned 403 Forbidden (access denied)
+355 [TR] OK | TRT Cocuk | https://tv-trtcocuk.medya.trt.com.tr/master.m3u8 | hls
 356 [TR] OK | TRT Diyanet Cocuk | https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8 | hls
 357 [TR] OK | TRT EBA | https://tv-e-okul01.medya.trt.com.tr/master.m3u8 | hls
 358 [TR] FAIL | TRT EBA Ilkokul | https://tv-e-okul00.medya.trt.com.tr/master.m3u8 | https://tv-e-okul00.medya.trt.com.tr/master.m3u8: Invalid data found when processing input
 359 [TR] FAIL | TRT EBA Lise | https://tv-e-okul02.medya.trt.com.tr/master.m3u8 | https://tv-e-okul02.medya.trt.com.tr/master.m3u8: Invalid data found when processing input
-360 [TR] OK | TRT Genc | https://tv-trtgenc.medya.trt.com.tr/master.m3u8 | hls
+360 [TR] FAIL | TRT Genc | https://tv-trtgenc.medya.trt.com.tr/master.m3u8 | https://tv-trtgenc.medya.trt.com.tr/master.m3u8: Server returned 403 Forbidden (access denied)
 361 [TR] OK | TRT Haber | https://tv-trthaber.medya.trt.com.tr/master.m3u8 | hls
 362 [TR] OK | TRT Kurdi | https://tv-trtkurdi.medya.trt.com.tr/master.m3u8 | hls
 363 [TR] OK | TRT Muzik | https://tv-trtmuzik.medya.trt.com.tr/master.m3u8 | hls
