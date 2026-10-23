@@ -102,7 +102,7 @@ https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IdeaalTV.nl" tvg-name="Ideaal TV" tvg-logo="https://i.imgur.com/JLYQFoX.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Ideaal TV (720p)
 https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="INFAST.nl" tvg-name="INFAST" tvg-logo="https://cdn.uc.assets.prezly.com/1b9c9500-cb43-449b-9eb6-9579640ec904/InFast_portrait-red.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",INFAST (1080p)
-https://amg00861-terninternation-lifestyle-samsungnz-e3zqy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungnz/playlist.m3u8
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="INTRAVEL.nl" tvg-name="INTRAVEL" tvg-logo="https://cdn.uc.assets.prezly.com/394f887e-bb39-4228-b126-93914e375b13/INTRAVEL_PortraitColor.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",INTRAVEL (1080p)
 https://amg00861-terncloud-amg00861c10-samsung-gb-2298.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-intravelsamsunguk-samsunggb/playlist.m3u8
 #EXTINF:-1 tvg-id="InTrouble.nl" tvg-name="InTrouble" tvg-logo="https://cdn.uc.assets.prezly.com/28ebc4a6-cfda-4bb1-9b9c-14e2c3da67a8/InTrouble_portraitOrange.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",InTrouble (1080p)
@@ -131,7 +131,7 @@ https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8
 https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8
 #EXTINF:-1 tvg-id="LONTV.nl" tvg-name="LON TV" tvg-logo="https://i.imgur.com/bH4XSGw.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",LON TV (720p)
 https://streamingserver02.omroepnuenen.nl/lon/lonweb/chunklist_w1463772894.m3u8
-#EXTINF:-1 tvg-id="MagicPowerRadio.nl" tvg-name="Magic PowerRadio" tvg-logo="https://i.imgur.com/sWcwIte.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Magic PowerRadio (240p)
+#EXTINF:-1 tvg-id="MagicPowerRadio.nl" tvg-name="Magic PowerRadio" tvg-logo="https://i.imgur.com/sWcwIte.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",Magic PowerRadio (360p)
 https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8
 #EXTINF:-1 tvg-id="MaLive.nl" tvg-name="MaLive" tvg-logo="https://i.imgur.com/0Vzg2OR.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",MaLive (1080p)
 https://live.salto.nl/hls/malive_high.m3u8
@@ -357,7 +357,7 @@ https://lb.iptvnetwork.net/ls28/10011/playlist.m3u8
 #EXTINF:-1 tvg-id="WeertFMTV.nl" tvg-name="WeertFM TV" tvg-logo="https://i.imgur.com/8bt6xt2.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",WeertFM TV (720p)
 https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WOS.nl" tvg-name="WOS" tvg-logo="https://i.imgur.com/L7MUBIo.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",WOS (1080p)
-https://ms7.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
+https://ms7.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" tvg-logo="https://i.imgur.com/jxuwGRi.png" tvg-country="NL" tvg-language="nld" group-title="Nederlands",XITE (720p)
 https://xite-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="XITEClassicCountry.nl" tvg-name="XITE Classic Country" tvg-logo="https://provider-static.plex.tv/epg/cms/production/511ebc88-a7f7-4f6d-85ff-38c849bbb4a3/xiteclassiccountry_logo_light_-_Arlette_FiranRDX.png" tvg-country="NL" tvg-language="eng" group-title="Nederlands",XITE Classic Country (1080p)
@@ -410,7 +410,7 @@ http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.imgur.com/HyVUwFC.png" tvg-country="TR" tvg-language="tur" group-title="Turks",ATV (360p)
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
-#EXTINF:-1 tvg-id="ATVAlanya.tr" tvg-name="ATV Alanya" tvg-logo="https://i.imgur.com/bUwarR0.png" tvg-country="TR" tvg-language="tur" group-title="Turks",ATV Alanya (720p)
+#EXTINF:-1 tvg-id="ATVAlanya.tr" tvg-name="ATV Alanya" tvg-logo="https://i.imgur.com/bUwarR0.png" tvg-country="TR" tvg-language="tur" group-title="Turks",ATV Alanya (1080p)
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-name="ATV Avrupa" tvg-logo="https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png" tvg-country="TR" tvg-language="tur" group-title="Turks",ATV Avrupa (576p)
 https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8
