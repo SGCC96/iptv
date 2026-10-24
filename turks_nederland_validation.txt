@@ -6,8 +6,8 @@ Channels in source (TR): 435
 Selected streams in output: 383
 M3U syntax errors: 0
 
-ffprobe passed: 257
-ffprobe failed: 126
+ffprobe passed: 260
+ffprobe failed: 123
 
 001 [NL] OK | 1AlmereTV | https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8 | hls
 002 [NL] OK | 1Twente TV | https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8 | hls
@@ -283,7 +283,7 @@ ffprobe failed: 126
 272 [TR] OK | Haber61 TV | https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8 | hls
 273 [TR] OK | Haberturk TV | https://tv.ensonhaber.com/haberturk/haberturk.m3u8 | hls
 274 [TR] OK | Halk TV | https://halktv-live.daioncdn.net/halktv/halktv.m3u8 | hls
-275 [TR] FAIL | HTSpor TV | https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web | Command '['ffprobe', '-v', 'error', '-rw_timeout', '10000000', '-user_agent', 'Mozilla/5.0', '-show_entries', 'format=format_name', '-of', 'default=nw=1:nk=1', 'https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web']' timed out after 15 seconds
+275 [TR] OK | HTSpor TV | https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web | hls
 276 [TR] OK | Hunat TV | https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8 | hls
 277 [TR] OK | Icel TV | https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8 | hls
 278 [TR] OK | Ilke TV | https://stream.ilketv.com.tr/hls/ilkecanli.m3u8 | hls
@@ -348,7 +348,7 @@ ffprobe failed: 126
 337 [TR] OK | Star TV | https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5 | hls
 338 [TR] OK | Sun RTV | https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8 | hls
 339 [TR] OK | TBMM TV | https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8 | hls
-340 [TR] FAIL | Tele 1 | https://tele1-live.ercdn.net/tele1/tele1.m3u8 | https://tele1-live.ercdn.net/tele1/tele1.m3u8: Server returned 404 Not Found
+340 [TR] OK | Tele 1 | https://tele1-live.ercdn.net/tele1/tele1.m3u8 | hls
 341 [TR] OK | Tempo TV | https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8 | hls
 342 [TR] OK | TGRT Belgesel | https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8 | hls
 343 [TR] OK | TGRT Haber | https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8 | hls
@@ -357,7 +357,7 @@ ffprobe failed: 126
 346 [TR] FAIL | TJK TV 2 | https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8 | https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8: Server returned 401 Unauthorized (authorization failed)
 347 [TR] OK | Ton TV | https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8 | hls
 348 [TR] OK | TRT 1 | https://tv-trt1.medya.trt.com.tr/master.m3u8 | hls
-349 [TR] FAIL | TRT 2 | https://tv-trt2.medya.trt.com.tr/master.m3u8 | https://tv-trt2.medya.trt.com.tr/master.m3u8: Server returned 403 Forbidden (access denied)
+349 [TR] OK | TRT 2 | https://tv-trt2.medya.trt.com.tr/master.m3u8 | hls
 350 [TR] OK | TRT 3 | https://tv-trt3.live.trt.com.tr/master.m3u8 | hls
 351 [TR] OK | TRT Arabi | https://tv-trtarabi.medya.trt.com.tr/master.m3u8 | hls
 352 [TR] OK | TRT Avaz | https://tv-trtavaz.medya.trt.com.tr/master.m3u8 | hls
