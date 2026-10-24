@@ -6,8 +6,8 @@ Channels in source (TR): 435
 Selected streams in output: 383
 M3U syntax errors: 0
 
-ffprobe passed: 260
-ffprobe failed: 123
+ffprobe passed: 257
+ffprobe failed: 126
 
 001 [NL] OK | 1AlmereTV | https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8 | hls
 002 [NL] OK | 1Twente TV | https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8 | hls
@@ -22,8 +22,8 @@ ffprobe failed: 123
 011 [NL] OK | BR6 TV | https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8 | hls
 012 [NL] FAIL | BVN | https://tv.ft.md.npox.nl/2D3RhEOhAQWhBE5ucG8tcHJvZC1jYXQtMVhtpQFubnBvLXBsYXllci1hcGkEGmrU6TAHUMoWYxpMO-JwSGbPSI_FUeUZATYBGQE4owChAGVodHRwcwGhAHB0di5mdC5tZC5ucG94Lm5sBaEBeBovTDIvYzA2MjBmYWYvMjdlYTIwODguaXNtbFggydhaqdtF_IHCX4a0VwNuBEfPoPT2H6JQxyZeZQoJUxk/L2/c0620faf/27ea2088.isml/dash.mpd | https://tv.ft.md.npox.nl/2D3RhEOhAQWhBE5ucG8tcHJvZC1jYXQtMVhtpQFubnBvLXBsYXllci1hcGkEGmrU6TAHUMoWYxpMO-JwSGbPSI_FUeUZATYBGQE4owChAGVodHRwcwGhAHB0di5mdC5tZC5ucG94Lm5sBaEBeBovTDIvYzA2MjBmYWYvMjdlYTIwODguaXNtbFggydhaqdtF_IHCX4a0VwNuBEfPoPT2H6JQxyZeZQoJUxk/L2/c0620faf/27ea2088.isml/dash.mpd: Server returned 401 Unauthorized (authorization failed)
 013 [NL] FAIL | Canal+ Action Europe | http://46.149.191.219:9106/play/a01g | http://46.149.191.219:9106/play/a01g: Connection timed out
-014 [NL] OK | Dance Television | https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8 | hls
-015 [NL] OK | Deep House District | https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8 | hls
+014 [NL] FAIL | Dance Television | https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8 | https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8: Invalid data found when processing input
+015 [NL] FAIL | Deep House District | https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8 | https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8: Invalid data found when processing input
 016 [NL] FAIL | Den Haag TV | http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8 | http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8: Connection timed out
 017 [NL] FAIL | Discovery Channel | https://lb.iptvnetwork.net/ls28/10015/playlist.m3u8 | https://lb.iptvnetwork.net/ls28/10015/playlist.m3u8: Input/output error
 018 [NL] FAIL | Disney Channel | http://86.87.15.10:8004/play/a02g/index.m3u8 | http://86.87.15.10:8004/play/a02g/index.m3u8: Server returned 403 Forbidden (access denied)
@@ -221,7 +221,7 @@ ffprobe failed: 123
 210 [TR] FAIL | beIN Sports Haber | https://andro.mangeinde4.lat/checklist/androstreamlivebsh.m3u8 | https://andro.mangeinde4.lat/checklist/androstreamlivebsh.m3u8: Input/output error
 211 [TR] OK | Benguturk TV | https://tv.ensonhaber.com/benguturk/benguturk.m3u8 | hls
 212 [TR] FAIL | Beyaz TV | https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8 | https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8: Connection reset by peer
-213 [TR] FAIL | Bir TV | https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8 | https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8: Server returned 404 Not Found
+213 [TR] OK | Bir TV | https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8 | hls
 214 [TR] OK | Bloomberg HT | https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8 | hls
 215 [TR] OK | Bric ve Satranc TV | http://139.162.182.79/live/test/index.m3u8 | hls
 216 [TR] OK | BRTV | https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8 | hls
@@ -319,7 +319,7 @@ ffprobe failed: 123
 308 [TR] OK | Mercan TV | https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8 | hls
 309 [TR] OK | Minika Cocuk | https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8 | hls
 310 [TR] OK | Minika Go | https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8 | hls
-311 [TR] FAIL | MovieSmart Turk | http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174 | http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174: Connection reset by peer
+311 [TR] FAIL | MovieSmart Turk | http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174 | http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174: Server returned 5XX Server Error reply
 312 [TR] FAIL | MTurk TV | https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8 | https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8: Server returned 404 Not Found
 313 [TR] FAIL | National Geographic | https://saran-live.ercdn.net/natgeohd/index.m3u8 | https://saran-live.ercdn.net/natgeohd/index.m3u8: Server returned 401 Unauthorized (authorization failed)
 314 [TR] FAIL | National Geographic Wild | https://saran-live.ercdn.net/natgeowild/index.m3u8 | https://saran-live.ercdn.net/natgeowild/index.m3u8: Server returned 401 Unauthorized (authorization failed)
@@ -348,12 +348,12 @@ ffprobe failed: 123
 337 [TR] OK | Star TV | https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5 | hls
 338 [TR] OK | Sun RTV | https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8 | hls
 339 [TR] OK | TBMM TV | https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8 | hls
-340 [TR] OK | Tele 1 | https://tele1-live.ercdn.net/tele1/tele1.m3u8 | hls
+340 [TR] FAIL | Tele 1 | https://tele1-live.ercdn.net/tele1/tele1.m3u8 | https://tele1-live.ercdn.net/tele1/tele1.m3u8: Invalid data found when processing input
 341 [TR] OK | Tempo TV | https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8 | hls
 342 [TR] OK | TGRT Belgesel | https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8 | hls
 343 [TR] OK | TGRT Haber | https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8 | hls
 344 [TR] OK | Tivi 6 | https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8 | hls
-345 [TR] OK | TJK TV | https://tjktv-live.tjk.org/tjktv.m3u8 | hls
+345 [TR] FAIL | TJK TV | https://tjktv-live.tjk.org/tjktv.m3u8 | Command '['ffprobe', '-v', 'error', '-rw_timeout', '10000000', '-user_agent', 'Mozilla/5.0', '-show_entries', 'format=format_name', '-of', 'default=nw=1:nk=1', 'https://tjktv-live.tjk.org/tjktv.m3u8']' timed out after 15 seconds
 346 [TR] FAIL | TJK TV 2 | https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8 | https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8: Server returned 401 Unauthorized (authorization failed)
 347 [TR] OK | Ton TV | https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8 | hls
 348 [TR] OK | TRT 1 | https://tv-trt1.medya.trt.com.tr/master.m3u8 | hls
@@ -365,7 +365,7 @@ ffprobe failed: 123
 354 [TR] OK | TRT Cocuk | https://tv-trtcocuk.medya.trt.com.tr/master.m3u8 | hls
 355 [TR] OK | TRT Diyanet Cocuk | https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8 | hls
 356 [TR] OK | TRT EBA | https://tv-e-okul01.medya.trt.com.tr/master.m3u8 | hls
-357 [TR] FAIL | TRT EBA Ilkokul | https://tv-e-okul00.medya.trt.com.tr/master.m3u8 | https://tv-e-okul00.medya.trt.com.tr/master.m3u8: Invalid data found when processing input
+357 [TR] FAIL | TRT EBA Ilkokul | https://tv-e-okul00.medya.trt.com.tr/master.m3u8 | Command '['ffprobe', '-v', 'error', '-rw_timeout', '10000000', '-user_agent', 'Mozilla/5.0', '-show_entries', 'format=format_name', '-of', 'default=nw=1:nk=1', 'https://tv-e-okul00.medya.trt.com.tr/master.m3u8']' timed out after 15 seconds
 358 [TR] FAIL | TRT EBA Lise | https://tv-e-okul02.medya.trt.com.tr/master.m3u8 | https://tv-e-okul02.medya.trt.com.tr/master.m3u8: Invalid data found when processing input
 359 [TR] OK | TRT Genc | https://tv-trtgenc.medya.trt.com.tr/master.m3u8 | hls
 360 [TR] OK | TRT Haber | https://tv-trthaber.medya.trt.com.tr/master.m3u8 | hls
