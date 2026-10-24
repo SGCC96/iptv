@@ -6,8 +6,8 @@ Channels in source (TR): 435
 Selected streams in output: 383
 M3U syntax errors: 0
 
-ffprobe passed: 261
-ffprobe failed: 122
+ffprobe passed: 258
+ffprobe failed: 125
 
 001 [NL] OK | 1AlmereTV | https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8 | hls
 002 [NL] OK | 1Twente TV | https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8 | hls
@@ -21,7 +21,7 @@ ffprobe failed: 122
 010 [NL] OK | BNR Nieuwsradio | https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8 | hls
 011 [NL] OK | BR6 TV | https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8 | hls
 012 [NL] FAIL | BVN | https://tv.ft.md.npox.nl/2D3RhEOhAQWhBE5ucG8tcHJvZC1jYXQtMVhtpQFubnBvLXBsYXllci1hcGkEGmrU6TAHUMoWYxpMO-JwSGbPSI_FUeUZATYBGQE4owChAGVodHRwcwGhAHB0di5mdC5tZC5ucG94Lm5sBaEBeBovTDIvYzA2MjBmYWYvMjdlYTIwODguaXNtbFggydhaqdtF_IHCX4a0VwNuBEfPoPT2H6JQxyZeZQoJUxk/L2/c0620faf/27ea2088.isml/dash.mpd | https://tv.ft.md.npox.nl/2D3RhEOhAQWhBE5ucG8tcHJvZC1jYXQtMVhtpQFubnBvLXBsYXllci1hcGkEGmrU6TAHUMoWYxpMO-JwSGbPSI_FUeUZATYBGQE4owChAGVodHRwcwGhAHB0di5mdC5tZC5ucG94Lm5sBaEBeBovTDIvYzA2MjBmYWYvMjdlYTIwODguaXNtbFggydhaqdtF_IHCX4a0VwNuBEfPoPT2H6JQxyZeZQoJUxk/L2/c0620faf/27ea2088.isml/dash.mpd: Server returned 401 Unauthorized (authorization failed)
-013 [NL] OK | Canal+ Action Europe | http://46.149.191.219:9106/play/a01g | mpegts
+013 [NL] FAIL | Canal+ Action Europe | http://46.149.191.219:9106/play/a01g | http://46.149.191.219:9106/play/a01g: Connection timed out
 014 [NL] OK | Dance Television | https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8 | hls
 015 [NL] OK | Deep House District | https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8 | hls
 016 [NL] FAIL | Den Haag TV | http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8 | http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8: Connection timed out
@@ -147,7 +147,7 @@ ffprobe failed: 122
 136 [NL] OK | Salto 2 | https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8 | hls
 137 [NL] OK | Salto 4 | https://salto-streams.nl/hls/sotv2.m3u8 | hls
 138 [NL] OK | Salto ADE | https://live.salto.nl/hls/at5.m3u8 | hls
-139 [NL] OK | Salto Brasa Music | https://salto-streams.nl/hls/sotv1.m3u8 | hls
+139 [NL] FAIL | Salto Brasa Music | https://salto-streams.nl/hls/sotv1.m3u8 | Command '['ffprobe', '-v', 'error', '-rw_timeout', '10000000', '-user_agent', 'Mozilla/5.0', '-show_entries', 'format=format_name', '-of', 'default=nw=1:nk=1', 'https://salto-streams.nl/hls/sotv1.m3u8']' timed out after 15 seconds
 140 [NL] FAIL | SBS6 Classics | https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8 | https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8: Server returned 403 Forbidden (access denied)
 141 [NL] OK | Schie TV | https://d2n2i1jp4j20kw.cloudfront.net/nlpo/clr-nlpo/schietv/index.m3u8 | hls
 142 [NL] FAIL | Siris TV | https://cdn.streammy.events/siris/playout/playlist.m3u8 | https://cdn.streammy.events/siris/playout/playlist.m3u8: Connection timed out
@@ -293,7 +293,7 @@ ffprobe failed: 122
 282 [TR] OK | Kanal 26 | https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8 | hls
 283 [TR] OK | Kanal 3 | https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8 | hls
 284 [TR] OK | Kanal 32 | https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8 | hls
-285 [TR] OK | Kanal 33 | https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8 | hls
+285 [TR] FAIL | Kanal 33 | https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8 | https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8: Server returned 404 Not Found
 286 [TR] FAIL | Kanal 34 | https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8 | https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8: Input/output error
 287 [TR] OK | Kanal 58 | https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8 | hls
 288 [TR] FAIL | Kanal 7 | https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8 | Command '['ffprobe', '-v', 'error', '-rw_timeout', '10000000', '-user_agent', 'Mozilla/5.0', '-show_entries', 'format=format_name', '-of', 'default=nw=1:nk=1', 'https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8']' timed out after 15 seconds
@@ -308,7 +308,7 @@ ffprobe failed: 122
 297 [TR] OK | Kocaeli TV | https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8 | hls
 298 [TR] OK | Konya Olay TV | https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8 | hls
 299 [TR] OK | Kral Pop TV | https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8 | hls
-300 [TR] FAIL | Lalegul TV | https://lbl.netmedya.net/hls/lalegultv.m3u8 | https://lbl.netmedya.net/hls/lalegultv.m3u8: Server returned 404 Not Found
+300 [TR] OK | Lalegul TV | https://lbl.netmedya.net/hls/lalegultv.m3u8 | hls
 301 [TR] OK | Life TV | https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8 | hls
 302 [TR] OK | Line TV | https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8 | hls
 303 [TR] OK | Luys TV | https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8 | hls
@@ -357,7 +357,7 @@ ffprobe failed: 122
 346 [TR] FAIL | TJK TV 2 | https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8 | https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8: Server returned 401 Unauthorized (authorization failed)
 347 [TR] OK | Ton TV | https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8 | hls
 348 [TR] OK | TRT 1 | https://tv-trt1.medya.trt.com.tr/master.m3u8 | hls
-349 [TR] OK | TRT 2 | https://tv-trt2.medya.trt.com.tr/master.m3u8 | hls
+349 [TR] FAIL | TRT 2 | https://tv-trt2.medya.trt.com.tr/master.m3u8 | https://tv-trt2.medya.trt.com.tr/master.m3u8: Server returned 403 Forbidden (access denied)
 350 [TR] OK | TRT 3 | https://tv-trt3.live.trt.com.tr/master.m3u8 | hls
 351 [TR] OK | TRT Arabi | https://tv-trtarabi.medya.trt.com.tr/master.m3u8 | hls
 352 [TR] OK | TRT Avaz | https://tv-trtavaz.medya.trt.com.tr/master.m3u8 | hls
