@@ -430,6 +430,8 @@ http://139.162.182.79/live/test/index.m3u8
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 #EXTINF:-1 tvg-id="BursaTV.tr" tvg-name="Bursa TV" tvg-logo="https://i.imgur.com/9cl1MR8.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Bursa TV (720p)
 https://win1.yayin.com.tr/bursatv/bursatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Cartoon Network
+http://176.65.153.40:6002/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="CayTV.tr" tvg-name="Cay TV" tvg-logo="https://i.imgur.com/ndupxwu.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Cay TV (720p)
 https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="CekmekoyTV.tr" tvg-name="Cekmekoy TV" tvg-logo="https://i.imgur.com/sjAGFWu.png" tvg-country="TR" tvg-language="tur" group-title="Turks",Cekmekoy TV (1080p)
