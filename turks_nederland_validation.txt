@@ -12,7 +12,7 @@ ffprobe failed: 119
 001 [NL] OK | 1AlmereTV | https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8 | hls
 002 [NL] OK | 1Twente TV | https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8 | hls
 003 [NL] OK | 360TuneBox | https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8 | hls
-004 [NL] OK | A1 TV | https://www.a1mediagroep.nl/hls/a1tv.m3u8 | hls
+004 [NL] FAIL | A1 TV | https://www.a1mediagroep.nl/hls/a1tv.m3u8 | https://www.a1mediagroep.nl/hls/a1tv.m3u8: Server returned 404 Not Found
 005 [NL] OK | Altena TV | https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8 | hls
 006 [NL] OK | Assen TV | https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live | hls
 007 [NL] OK | AT5 | https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live | hls
@@ -73,7 +73,7 @@ ffprobe failed: 119
 062 [NL] OK | MaLive | https://live.salto.nl/hls/malive_high.m3u8 | hls
 063 [NL] FAIL | Meer TV | https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8 | https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8: Server returned 403 Forbidden (access denied)
 064 [NL] OK | MerweTV | https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8 | hls
-065 [NL] FAIL | ML5 TV | https://ms2.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8 | https://ms2.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8: Server returned 404 Not Found
+065 [NL] FAIL | ML5 TV | https://ms7.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8 | https://ms7.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8: Server returned 404 Not Found
 066 [NL] FAIL | National Geographic | http://46.32.176.50/NationalGeographicHD/index.m3u8 | http://46.32.176.50/NationalGeographicHD/index.m3u8: Connection timed out
 067 [NL] OK | NH | https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live | hls
 068 [NL] OK | Nickelodeon | http://185.77.12.179:9981/stream/channelid/788918401?profile=pass | mpegts
@@ -177,7 +177,7 @@ ffprobe failed: 119
 166 [NL] FAIL | Tweede Kamer: Tilanuskamer | https://livestream.tweedekamer.nl/live/tilanuskamer/73/prog_index.m3u8 | https://livestream.tweedekamer.nl/live/tilanuskamer/73/prog_index.m3u8: Input/output error
 167 [NL] FAIL | Tweede Kamer: Troelstrazaal | https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live | https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live: Server returned 403 Forbidden (access denied)
 168 [NL] FAIL | Tweede Kamer: Wttewaall van Stoetwegenzaal | https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live | https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live: Server returned 403 Forbidden (access denied)
-169 [NL] OK | UStad | http://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8 | hls
+169 [NL] OK | UStad | https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8 | hls
 170 [NL] OK | Vechtdal TV | https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8 | hls
 171 [NL] FAIL | Veronica / Disney Jr. | https://lb.iptvnetwork.net/ls28/10011/playlist.m3u8 | https://lb.iptvnetwork.net/ls28/10011/playlist.m3u8: Input/output error
 172 [NL] OK | WeertFM TV | https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8 | hls
@@ -188,7 +188,7 @@ ffprobe failed: 119
 177 [NL] OK | XITE Just Chill | https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8 | hls
 178 [NL] OK | XITE Reggae Vibes | https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8 | hls
 179 [NL] OK | XITE Rock x Metal | https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8 | hls
-180 [NL] FAIL | XON | http://ms2.mx-cd.net/tv/EdeTV.smil/playlist.m3u8 | http://ms2.mx-cd.net/tv/EdeTV.smil/playlist.m3u8: Server returned 404 Not Found
+180 [NL] FAIL | XON | https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8 | https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8: Server returned 404 Not Found
 181 [NL] FAIL | ZFM Zoetermeer TV | https://zfmzoetermeer.nl/live/master.m3u8 | https://zfmzoetermeer.nl/live/master.m3u8: Server returned 404 Not Found
 182 [NL] OK | ZO!34 | https://video.uitzending.tv:19360/zo34/zo34.m3u8 | hls
 183 [TR] OK | 24 TV | https://tv.ensonhaber.com/tv24/tv24.m3u8 | hls
@@ -205,7 +205,7 @@ ffprobe failed: 119
 194 [TR] OK | Almahriah TV | https://starmenajo.com/hls/almahriah/index.m3u8 | hls
 195 [TR] OK | Altas TV | https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8 | hls
 196 [TR] OK | Anadolu Net TV | https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8 | hls
-197 [TR] OK | Aras TV | http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8 | hls
+197 [TR] FAIL | Aras TV | http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8 | http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8: Server returned 404 Not Found
 198 [TR] OK | AS TV | https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8 | hls
 199 [TR] OK | ATV | http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8 | hls
 200 [TR] OK | ATV Alanya | https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8 | hls
@@ -273,7 +273,7 @@ ffprobe failed: 119
 262 [TR] OK | Guneydogu TV | https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8 | hls
 263 [TR] FAIL | GZT | https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8 | https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8: Server returned 404 Not Found
 264 [TR] OK | Haber Global | https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8 | hls
-265 [TR] OK | Haber61 TV | https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8 | hls
+265 [TR] OK | Haber61 TV | https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8 | hls
 266 [TR] OK | Haberturk TV | https://tv.ensonhaber.com/haberturk/haberturk.m3u8 | hls
 267 [TR] OK | Halk TV | https://halktv-live.daioncdn.net/halktv/halktv.m3u8 | hls
 268 [TR] OK | HTSpor TV | https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web | hls
@@ -286,7 +286,7 @@ ffprobe failed: 119
 275 [TR] OK | Kanal 26 | https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8 | hls
 276 [TR] OK | Kanal 3 | https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8 | hls
 277 [TR] OK | Kanal 32 | https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8 | hls
-278 [TR] FAIL | Kanal 33 | https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8 | https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8: Server returned 404 Not Found
+278 [TR] OK | Kanal 33 | https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8 | hls
 279 [TR] FAIL | Kanal 34 | https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8 | https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8: Input/output error
 280 [TR] OK | Kanal 58 | https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8 | hls
 281 [TR] FAIL | Kanal 7 | https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8 | Command '['ffprobe', '-v', 'error', '-rw_timeout', '10000000', '-user_agent', 'Mozilla/5.0', '-show_entries', 'format=format_name', '-of', 'default=nw=1:nk=1', 'https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8']' timed out after 15 seconds
@@ -299,7 +299,7 @@ ffprobe failed: 119
 288 [TR] OK | Kay TV | https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8 | hls
 289 [TR] OK | Kent Turk | https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8 | hls
 290 [TR] OK | Kocaeli TV | https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8 | hls
-291 [TR] FAIL | Konya Olay TV | https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8 | https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8: Server returned 404 Not Found
+291 [TR] OK | Konya Olay TV | https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8 | hls
 292 [TR] OK | Kral Pop TV | https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8 | hls
 293 [TR] OK | Lalegul TV | https://lbl.netmedya.net/hls/lalegultv.m3u8 | hls
 294 [TR] OK | Life TV | https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8 | hls
@@ -341,7 +341,7 @@ ffprobe failed: 119
 330 [TR] OK | Star TV | https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5 | hls
 331 [TR] OK | Sun RTV | https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8 | hls
 332 [TR] OK | TBMM TV | https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8 | hls
-333 [TR] FAIL | Tele 1 | https://tele1-live.ercdn.net/tele1/tele1.m3u8 | Command '['ffprobe', '-v', 'error', '-rw_timeout', '10000000', '-user_agent', 'Mozilla/5.0', '-show_entries', 'format=format_name', '-of', 'default=nw=1:nk=1', 'https://tele1-live.ercdn.net/tele1/tele1.m3u8']' timed out after 15 seconds
+333 [TR] FAIL | Tele 1 | https://tele1-live.ercdn.net/tele1/tele1.m3u8 | https://tele1-live.ercdn.net/tele1/tele1.m3u8: Server returned 404 Not Found
 334 [TR] OK | Tempo TV | https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8 | hls
 335 [TR] OK | TGRT Belgesel | https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8 | hls
 336 [TR] OK | TGRT Haber | https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8 | hls
@@ -350,12 +350,12 @@ ffprobe failed: 119
 339 [TR] FAIL | TJK TV 2 | https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8 | https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8: Server returned 401 Unauthorized (authorization failed)
 340 [TR] OK | Ton TV | https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8 | hls
 341 [TR] OK | TRT 1 | https://tv-trt1.medya.trt.com.tr/master.m3u8 | hls
-342 [TR] FAIL | TRT 2 | https://tv-trt2.medya.trt.com.tr/master.m3u8 | https://tv-trt2.medya.trt.com.tr/master.m3u8: Server returned 403 Forbidden (access denied)
+342 [TR] OK | TRT 2 | https://tv-trt2.medya.trt.com.tr/master.m3u8 | hls
 343 [TR] OK | TRT 3 | https://tv-trt3.live.trt.com.tr/master.m3u8 | hls
 344 [TR] OK | TRT Arabi | https://tv-trtarabi.medya.trt.com.tr/master.m3u8 | hls
 345 [TR] OK | TRT Avaz | https://tv-trtavaz.medya.trt.com.tr/master.m3u8 | hls
 346 [TR] FAIL | TRT Belgesel | https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8 | https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8: Server returned 403 Forbidden (access denied)
-347 [TR] OK | TRT Cocuk | https://tv-trtcocuk.medya.trt.com.tr/master.m3u8 | hls
+347 [TR] FAIL | TRT Cocuk | https://tv-trtcocuk.medya.trt.com.tr/master.m3u8 | https://tv-trtcocuk.medya.trt.com.tr/master.m3u8: Server returned 403 Forbidden (access denied)
 348 [TR] OK | TRT Diyanet Cocuk | https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8 | hls
 349 [TR] OK | TRT EBA | https://tv-e-okul01.medya.trt.com.tr/master.m3u8 | hls
 350 [TR] FAIL | TRT EBA Ilkokul | https://tv-e-okul00.medya.trt.com.tr/master.m3u8 | https://tv-e-okul00.medya.trt.com.tr/master.m3u8: Invalid data found when processing input
